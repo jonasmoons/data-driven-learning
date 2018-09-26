@@ -1,5 +1,3 @@
-# ![Data Science Fundamentals](assets/dsf.jpg)
-
 ## Table of contents
 * [Essentials](#essentials)
 * [Examples](#examples)
@@ -8,8 +6,8 @@
 * [Resources and tips](#resources-and-tips)
 
 ## Essentials
-* **Teachers**: [Hay Kranen](mailto:hay.kranen@hu.nl) and [Jonas Moons](mailto:jonas.moons@hu.nl)
-* [The course on learn.hu.nl](https://learn.hu.nl/course/view.php?id=798)
+* **Teacher**: [Jonas Moons](mailto:jonas.moons@hu.nl)
+* [The course on learn.hu.nl](https://learn.hu.nl/course/view.php?id=802)
 * [The master on learn.hu.nl](https://learn.hu.nl/course/index.php?categoryid=93)
 * [Data-driven design Slack](https://datadrivendesign2018.slack.com/)
 * **Deadline**: **Monday November 5th before 12:00** you hand in [the five assignments](https://learn.hu.nl/mod/book/view.php?id=41929&chapterid=3392) on your Github account and as [a zipfile on learn.hu.nl](https://learn.hu.nl/mod/assign/view.php?id=64659).
