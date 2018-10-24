@@ -10,7 +10,7 @@
 * [The course on learn.hu.nl](https://learn.hu.nl/course/view.php?id=802)
 * [The master on learn.hu.nl](https://learn.hu.nl/course/index.php?categoryid=93)
 * [Data-driven design Slack](https://datadrivendesign2018.slack.com/)
-* **Deadline**: **Monday November 5th before 12:00** you hand in [the five assignments](https://learn.hu.nl/mod/book/view.php?id=41929&chapterid=3392) on your Github account and as [a zipfile on learn.hu.nl](https://learn.hu.nl/mod/assign/view.php?id=64659).
+* **Deadline**: **Monday January 28th before 12:00** you hand in [the five assignments] on your Github account and as [a zipfile on learn.hu.nl](https://learn.hu.nl/mod/assign/view.php?id=65961).
 * [Cheatsheet](cheatsheet.md)
 * [Students and their Github accounts](students.md)
 
@@ -65,9 +65,8 @@ If you are struggling with the mathematics of the course, check out:
 #### Data science and machine learning
 
 #### Tips
-* Google, [Stack Overflow](https://stackoverflow.com/) and [Cross Validated] (https://stats.stackexchange.com/) are your friends. It’s not a shame to Google even really basic concepts.
+* Google, [Stack Overflow](https://stackoverflow.com/) and [Cross Validated](https://stats.stackexchange.com/) are your friends. It’s not a shame to Google even really basic concepts.
 * Your code should be properly commented (use `#`). Good commenting means you explain why you do something, not what you’re doing.
 * Visualize and explore your data. Get acquainted with your data. Explore cases that deviate from the trend (outliers).
-* Visualize your model predictions and [residuals] (http://blog.minitab.com/blog/adventures-in-statistics-2/why-you-need-to-check-your-residual-plots-for-regression-analysis) to look for ways to improve your model. 
+* Visualize your model predictions and [residuals](http://blog.minitab.com/blog/adventures-in-statistics-2/why-you-need-to-check-your-residual-plots-for-regression-analysis) to look for ways to improve your model. 
 * Properly label your graphs and axes.
-* 
