@@ -10,7 +10,7 @@
 * [The course on learn.hu.nl](https://learn.hu.nl/course/view.php?id=802)
 * [The master on learn.hu.nl](https://learn.hu.nl/course/index.php?categoryid=93)
 * [Data-driven design Slack](https://datadrivendesign2018.slack.com/)
-* **Deadline**: **Monday January 28th before 12:00** you hand in [the five assignments] on your Github account and as [a zipfile on learn.hu.nl](https://learn.hu.nl/mod/assign/view.php?id=65961).
+* **Deadline**: **Monday January 28th before 12:00**: hand in the assignments as [a zipfile on learn.hu.nl](https://learn.hu.nl/mod/assign/view.php?id=65961).
 * [Cheatsheet](cheatsheet.md)
 * [Students and their Github accounts](students.md)
 
