@@ -1,0 +1,930 @@
+id,city,gender,age,hh_size,hh_type,education,height,weight,waist
+1,Montpellier,male,25-34,2,couple,master or doctorate,183,62,78
+2,Montpellier,female,25-34,2,couple,high school,163,60,75
+3,Lyon,female,25-34,2,couple,master or doctorate,172,65,60
+4,Lyon,male,25-34,3,single parent,bachelor,182,85,95
+5,Bordeaux,male,25-34,2,couple,master or doctorate,177,70,81
+6,Lyon,male,45-54,1,single,bachelor,180,81,98
+7,Bordeaux,female,25-34,1,single,master or doctorate,160,62,79
+8,Lyon,female,35-44,3,single parent,bachelor,153,40,60
+9,Bordeaux,female,25-34,3,family,master or doctorate,175,71,85
+10,Lyon,female,25-34,3,family,high school,165,68,92
+11,Lyon,male,55-64,2,single parent,bachelor,175,82,96
+12,Lyon,female,25-34,1,single,master or doctorate,165,60,73
+13,Lyon,female,45-54,3,single parent,vocational,160,77,107
+14,Lyon,female,55-64,1,single,master or doctorate,160,64,82
+15,Lyon,female,45-54,5,family,high school,176,96,103
+16,Lyon,male,55-64,1,single,vocational,173,81,104
+17,Bordeaux,male,25-34,2,couple,master or doctorate,180,70,80
+18,Lille,female,<25,3,couple,bachelor,165,58,80
+19,Lyon,male,45-54,2,couple,vocational,178,60,78
+20,Lyon,female,45-54,1,single,high school,168,72,90
+21,Lyon,male,25-34,2,couple,bachelor,172,74,97
+22,Lyon,male,25-34,1,single,master or doctorate,183,75,87
+23,Lille,male,25-34,2,other,high school,175,58,76
+24,Lille,male,<25,2,other,bachelor,176,70,60
+25,Lyon,male,35-44,3,family,master or doctorate,179,78,97
+26,Lyon,male,35-44,4,family,bachelor,180,88,102
+27,Lille,female,25-34,1,single,master or doctorate,163,56,85
+28,Lyon,male,25-34,1,single,master or doctorate,181,69,83
+29,Lille,male,25-34,2,couple,master or doctorate,173,70,82
+30,Lyon,male,25-34,1,single,master or doctorate,187,93,106
+31,Lyon,male,35-44,4,family,master or doctorate,179,76,91
+32,Lyon,female,25-34,4,family,high school,170,63,85
+33,Lyon,female,25-34,2,couple,master or doctorate,165,54,73
+34,Montpellier,male,35-44,3,family,high school,165,72,92
+35,Lyon,male,35-44,4,family,bachelor,170,68,89
+36,Lyon,male,25-34,2,couple,bachelor,180,73,92
+37,Lyon,male,25-34,3,family,master or doctorate,181,95,99
+38,Montpellier,female,55-64,3,family,bachelor,155,45,75
+39,Lyon,female,35-44,1,single,bachelor,163,53,76
+40,Lyon,male,25-34,2,couple,master or doctorate,175,71,85
+41,Lille,male,35-44,5,family,bachelor,173,96,106
+42,Montpellier,male,45-54,1,couple,primary,170,67,82
+43,Lyon,female,25-34,1,single,master or doctorate,165,61,83
+44,Montpellier,female,25-34,1,single,bachelor,170,76,87
+45,Lyon,female,25-34,2,couple,bachelor,169,62,78
+46,Lyon,male,45-54,4,family,master or doctorate,170,61,80
+47,Bordeaux,male,25-34,3,family,bachelor,170,77,87
+48,Lyon,male,35-44,2,couple,bachelor,172,76,90
+49,Lyon,male,25-34,2,couple,master or doctorate,174,79,101
+50,Lyon,female,35-44,4,family,bachelor,172,78,39
+51,Bordeaux,female,25-34,1,single,bachelor,162,52,82
+52,Lyon,male,<25,1,single,bachelor,180,73,89
+53,Bordeaux,female,35-44,6,family,bachelor,159,56,75
+54,Lyon,female,35-44,5,family,bachelor,168,59,70
+55,Lyon,female,25-34,2,couple,bachelor,168,60,78
+56,Lyon,male,25-34,2,couple,bachelor,180,77,85
+57,Lyon,male,35-44,3,family,bachelor,186,93,101
+58,Lille,male,35-44,6,family,vocational,181,84,100
+59,Lyon,female,25-34,2,couple,master or doctorate,165,53,74
+60,Lyon,female,25-34,1,single,master or doctorate,165,55,72
+61,Lyon,male,35-44,2,couple,bachelor,182,80,80
+62,Bordeaux,male,55-64,2,family,high school,176,74,85
+63,Lyon,male,35-44,1,single,master or doctorate,166,59,80
+64,Lyon,male,<25,1,single,bachelor,172,68,82
+65,Lyon,male,25-34,2,couple,bachelor,177,68,82
+66,Lyon,female,<25,2,couple,bachelor,180,75,83
+67,Bordeaux,female,25-34,2,couple,master or doctorate,166,60,72
+68,Lyon,female,<25,1,single,master or doctorate,162,61,80
+69,Lyon,male,35-44,3,family,master or doctorate,188,80,44
+70,Lyon,female,25-34,2,couple,high school,166,127,118
+71,Bordeaux,female,35-44,3,family,master or doctorate,170,85,100
+72,Lille,female,35-44,1,single,bachelor,177,63,74
+73,Lille,female,25-34,1,single,master or doctorate,170,52,36
+74,Lyon,male,25-34,2,couple,bachelor,180,72,70
+75,Lyon,male,<25,2,couple,bachelor,174,63,74
+76,Montpellier,female,25-34,2,couple,bachelor,157,50,66
+77,Montpellier,female,25-34,2,couple,master or doctorate,163,60,75
+78,Lyon,female,25-34,1,single,master or doctorate,161,56,72
+79,Montpellier,male,35-44,2,couple,bachelor,190,86,96
+80,Lyon,female,35-44,1,single,bachelor,170,52,65
+81,Bordeaux,female,25-34,2,couple,master or doctorate,160,56,68
+82,Lille,male,25-34,1,single,master or doctorate,168,59,78
+83,Lyon,male,25-34,2,couple,bachelor,182,73,85
+84,Lyon,female,25-34,1,single,master or doctorate,152,48,76
+85,Lyon,female,25-34,1,single,master or doctorate,160,65,96
+86,Lyon,male,35-44,1,single,high school,180,92,105
+87,Lyon,female,35-44,4,family,primary,162,64,93
+88,Montpellier,female,<25,2,couple,bachelor,172,67,80
+89,Montpellier,male,35-44,4,single parent,master or doctorate,187,87,93
+90,Lyon,female,<25,1,single,master or doctorate,167,62,85
+91,Montpellier,male,25-34,1,single,master or doctorate,170,75,91
+92,Lille,female,25-34,2,couple,master or doctorate,161,58,69
+93,Lyon,male,25-34,1,couple,bachelor,164,64,80
+94,Lyon,female,55-64,1,single,bachelor,163,62,82
+95,Lille,male,25-34,1,single,bachelor,178,95,110
+96,Lyon,male,25-34,2,couple,master or doctorate,173,85,83
+97,Bordeaux,female,45-54,2,couple,master or doctorate,168,60,73
+98,Montpellier,male,45-54,2,couple,vocational,180,76,90
+99,Lyon,female,<25,2,couple,bachelor,158,70,84
+100,Lyon,male,25-34,2,couple,master or doctorate,189,85,97
+101,Lyon,female,25-34,2,couple,bachelor,167,68,74
+102,Bordeaux,male,25-34,3,family,bachelor,175,79,84
+103,Montpellier,male,45-54,1,single,bachelor,180,76,91
+104,Lille,female,35-44,5,family,master or doctorate,163,56,75
+105,Bordeaux,female,45-54,1,single,bachelor,164,65,72
+106,Bordeaux,female,25-34,2,couple,bachelor,164,65,80
+107,Lyon,male,25-34,2,couple,bachelor,175,66,84
+108,Lyon,female,<25,2,couple,bachelor,150,56,70
+109,Lyon,male,25-34,1,single,master or doctorate,193,81,91
+110,Lyon,male,25-34,2,couple,master or doctorate,182,86,90
+111,Lyon,male,45-54,4,family,master or doctorate,169,71,84
+112,Lyon,male,25-34,2,couple,master or doctorate,175,78,78
+113,Montpellier,male,25-34,2,couple,master or doctorate,176,87,105
+114,Lyon,female,55-64,2,family,bachelor,158,96,110
+115,Bordeaux,female,45-54,4,single parent,bachelor,163,54,85
+116,Lyon,male,25-34,2,couple,master or doctorate,168,62,82
+117,Lyon,male,25-34,1,single,master or doctorate,169,77,90
+118,Lyon,male,35-44,4,family,high school,185,77,87
+119,Lille,male,25-34,1,single,master or doctorate,171,70,79
+120,Lyon,male,25-34,2,family,bachelor,175,80,53
+121,Bordeaux,male,25-34,2,couple,bachelor,171,80,94
+122,Bordeaux,male,<25,1,single,master or doctorate,172,72,172
+123,Montpellier,male,55-64,1,single,high school,173,80,48
+124,Lille,male,25-34,4,family,master or doctorate,173,67,81
+125,Bordeaux,male,25-34,2,couple,bachelor,178,71,83
+126,Bordeaux,female,<25,1,single,bachelor,155,52,70
+127,Lyon,female,35-44,4,family,master or doctorate,159,62,78
+128,Lille,female,25-34,3,family,vocational,173,77,49
+129,Bordeaux,female,<25,1,single,bachelor,161,54,65
+130,Lyon,male,25-34,2,couple,master or doctorate,180,77,87
+131,Lyon,male,25-34,1,single,bachelor,169,97,112
+132,Lyon,female,<25,1,single,high school,160,52,90
+133,Lyon,male,25-34,2,couple,master or doctorate,180,80,56
+134,Lyon,male,45-54,5,family,vocational,169,65,76
+135,Bordeaux,male,25-34,2,couple,bachelor,183,88,84
+136,Lyon,male,<25,2,couple,bachelor,175,70,79
+137,Lyon,male,25-34,2,couple,master or doctorate,182,68,88
+138,Lyon,female,25-34,1,single,master or doctorate,164,80,82
+139,Montpellier,female,45-54,4,family,bachelor,167,52,76
+140,Bordeaux,male,25-34,2,couple,master or doctorate,176,80,87
+141,Bordeaux,male,25-34,3,family,master or doctorate,181,63,75
+142,Lyon,female,25-34,2,couple,master or doctorate,167,71,88
+143,Lyon,female,25-34,2,other,master or doctorate,170,59,80
+144,Bordeaux,female,25-34,3,family,master or doctorate,162,77,89
+145,Lyon,male,35-44,2,couple,bachelor,186,90,83
+146,Lyon,female,25-34,3,family,master or doctorate,172,75,97
+147,Lyon,male,25-34,3,family,master or doctorate,184,96,108
+148,Bordeaux,male,45-54,5,family,master or doctorate,172,101,111
+149,Lille,male,55-64,2,single parent,bachelor,183,105,104
+150,Lyon,female,25-34,1,single,master or doctorate,156,62,80
+151,Lille,female,25-34,4,family,vocational,163,82,105
+152,Lyon,female,<25,1,single,master or doctorate,172,80,105
+153,Lyon,female,25-34,2,couple,bachelor,151,57,68
+154,Lyon,male,25-34,2,other,master or doctorate,180,70,86
+155,Lyon,male,<25,2,couple,master or doctorate,180,73,84
+156,Lyon,male,25-34,3,other,master or doctorate,190,70,82
+157,Lyon,male,<25,1,single,bachelor,182,85,90
+158,Lille,female,55-64,2,family,bachelor,165,65,86
+159,Lyon,female,25-34,4,family,high school,162,62,88
+160,Lyon,female,<25,2,couple,master or doctorate,164,57,83
+161,Lyon,male,<25,1,couple,high school,166,58,71
+162,Montpellier,male,45-54,3,family,bachelor,177,90,104
+163,Bordeaux,female,25-34,1,single,bachelor,172,102,119
+164,Montpellier,male,25-34,2,couple,master or doctorate,188,88,86
+165,Bordeaux,female,<25,2,couple,master or doctorate,158,54,75
+166,Lyon,female,45-54,1,single,bachelor,164,58,76
+167,Montpellier,male,25-34,2,couple,master or doctorate,179,86,89
+168,Bordeaux,female,<25,2,couple,high school,163,46,66
+169,Lyon,male,25-34,1,single,master or doctorate,190,64,70
+170,Lyon,female,45-54,4,family,vocational,170,55,76
+171,Lille,male,35-44,4,family,master or doctorate,184,79,96
+172,Bordeaux,male,25-34,1,single,high school,180,95,90
+173,Lille,male,<25,11,other,high school,171,63,75
+174,Bordeaux,female,25-34,3,family,bachelor,165,50,65
+175,Lyon,male,45-54,2,couple,vocational,179,73,83
+176,Lyon,female,25-34,1,single,high school,167,55,64
+177,Lille,male,25-34,1,single,bachelor,187,79,92
+178,Lyon,female,25-34,2,couple,master or doctorate,169,72,93
+179,Lyon,male,35-44,4,family,bachelor,176,73,92
+180,Lille,female,25-34,5,family,master or doctorate,163,54,65
+181,Lyon,female,35-44,3,single parent,vocational,157,54,75
+182,Lyon,female,25-34,1,single,master or doctorate,165,54,78
+183,Lyon,female,25-34,1,single,bachelor,176,68,82
+184,Bordeaux,female,25-34,2,couple,master or doctorate,154,53,67
+185,Bordeaux,male,<25,2,couple,master or doctorate,179,81,84
+186,Lyon,female,25-34,2,couple,master or doctorate,170,64,71
+187,Lyon,female,25-34,2,couple,high school,169,65,70
+188,Lyon,male,25-34,2,couple,master or doctorate,188,110,110
+189,Lyon,male,25-34,3,family,vocational,184,96,94
+190,Lyon,male,25-34,3,family,bachelor,175,65,83
+191,Lyon,male,35-44,4,family,master or doctorate,174,72,87
+192,Lille,male,35-44,4,family,master or doctorate,189,90,105
+193,Lyon,female,25-34,1,single,bachelor,165,53,75
+194,Lyon,female,35-44,6,family,bachelor,157,63,75
+195,Lyon,male,25-34,2,couple,bachelor,182,90,100
+196,Montpellier,male,35-44,4,family,master or doctorate,171,80,100
+197,Montpellier,female,25-34,1,single,bachelor,177,61,77
+198,Lyon,male,25-34,1,single,master or doctorate,180,72,88
+199,Lyon,male,<25,1,single,bachelor,183,93,112
+200,Lyon,female,25-34,2,couple,master or doctorate,176,58,65
+201,Lyon,male,55-64,1,single,master or doctorate,178,76,105
+202,Montpellier,male,25-34,4,family,high school,180,84,40
+203,Bordeaux,male,25-34,2,couple,bachelor,187,84,97
+204,Bordeaux,female,<25,2,couple,high school,161,55,72
+205,Montpellier,female,25-34,1,single,master or doctorate,168,55,77
+206,Lyon,male,25-34,1,single,master or doctorate,170,64,72
+207,Lyon,female,<25,2,couple,bachelor,163,70,93
+208,Bordeaux,female,35-44,2,couple,bachelor,170,62,72
+209,Lyon,male,55-64,4,family,master or doctorate,173,75,94
+210,Lyon,male,25-34,2,couple,bachelor,185,79,85
+211,Lyon,female,25-34,2,couple,master or doctorate,156,51,71
+212,Lille,female,25-34,1,single,master or doctorate,168,74,80
+213,Lyon,female,25-34,2,couple,master or doctorate,170,62,67
+214,Bordeaux,male,25-34,1,single,master or doctorate,185,72,90
+215,Lyon,male,35-44,2,couple,vocational,174,72,88
+216,Lyon,female,35-44,3,single parent,no degree,162,50,72
+217,Lille,female,35-44,2,couple,master or doctorate,177,65,67
+218,Lyon,male,25-34,1,single,bachelor,181,72,89
+219,Lyon,male,35-44,6,family,master or doctorate,183,87,97
+220,Lyon,female,45-54,5,family,master or doctorate,159,46,69
+221,Bordeaux,male,25-34,1,couple,bachelor,187,77,83
+222,Lyon,female,25-34,2,couple,bachelor,169,71,92
+223,Lille,male,35-44,4,family,master or doctorate,175,73,90
+224,Lyon,female,25-34,1,single,bachelor,160,120,114
+225,Lyon,male,25-34,2,couple,bachelor,167,73,95
+226,Lyon,male,35-44,5,family,master or doctorate,175,67,87
+227,Lyon,male,35-44,4,family,bachelor,177,74,97
+228,Lyon,male,25-34,5,family,master or doctorate,178,88,99
+229,Lyon,female,25-34,4,family,bachelor,160,59,79
+230,Montpellier,female,55-64,2,couple,master or doctorate,150,55,80
+231,Lyon,female,45-54,2,single parent,high school,163,55,80
+232,Lille,male,25-34,2,couple,master or doctorate,182,74,88
+233,Lyon,male,25-34,2,other,bachelor,172,64,71
+234,Lille,female,25-34,1,single,master or doctorate,170,63,70
+235,Montpellier,female,25-34,2,couple,master or doctorate,168,67,78
+236,Lyon,female,25-34,3,family,bachelor,164,67,82
+237,Lille,male,25-34,2,couple,bachelor,175,78,125
+238,Lyon,male,25-34,2,couple,bachelor,180,78,89
+239,Montpellier,male,25-34,1,single,bachelor,180,87,95
+240,Lyon,female,25-34,2,couple,master or doctorate,169,65,67
+241,Lyon,male,35-44,4,family,bachelor,183,92,98
+242,Bordeaux,female,<25,1,single,master or doctorate,182,69,84
+243,Montpellier,male,<25,3,other,bachelor,192,95,87
+244,Lyon,male,35-44,2,couple,bachelor,174,72,92
+245,Lyon,male,25-34,3,family,master or doctorate,185,90,95
+246,Bordeaux,male,25-34,1,single,master or doctorate,,,112
+247,Bordeaux,female,45-54,2,couple,bachelor,161,53,73
+248,Lyon,male,<25,5,family,bachelor,180,78,89
+249,Lyon,female,35-44,2,couple,high school,158,50,68
+250,Lyon,male,35-44,2,couple,bachelor,186,73,76
+251,Lyon,female,25-34,4,family,bachelor,171,63,83
+252,Lyon,male,35-44,1,single,master or doctorate,173,68,84
+253,Lille,male,35-44,4,family,bachelor,183,77,95
+254,Lyon,female,35-44,1,single,bachelor,163,89,112
+255,Montpellier,male,25-34,4,couple,master or doctorate,192,85,80
+256,Lille,male,35-44,4,family,bachelor,186,82,89
+257,Lyon,female,35-44,1,single,bachelor,160,78,94
+258,Bordeaux,female,25-34,1,single,bachelor,163,61,83
+259,Lyon,female,<25,2,couple,master or doctorate,170,78,92
+260,Lille,male,25-34,2,couple,master or doctorate,177,95,100
+261,Lille,male,25-34,2,other,master or doctorate,191,77,84
+262,Montpellier,female,45-54,4,family,bachelor,155,65,84
+263,Bordeaux,female,<25,3,family,high school,164,55,67
+264,Lille,male,25-34,3,family,master or doctorate,185,77,79
+265,Lyon,female,45-54,3,single parent,high school,170,87,90
+266,Bordeaux,female,25-34,3,family,high school,163,82,84
+267,Lille,female,25-34,1,couple,master or doctorate,171,72,70
+268,Lille,male,<25,1,single,master or doctorate,173,62,77
+269,Lyon,female,25-34,2,couple,master or doctorate,166,88,112
+270,Lille,female,25-34,2,couple,master or doctorate,178,65,74
+271,Lille,male,35-44,4,family,bachelor,182,95,105
+272,Lyon,female,45-54,1,single,bachelor,153,56,81
+273,Lyon,female,25-34,4,family,high school,175,55,67
+274,Montpellier,female,45-54,1,single,vocational,158,75,106
+275,Lyon,male,25-34,2,couple,bachelor,170,79,101
+276,Lyon,male,25-34,2,couple,bachelor,180,94,84
+277,Lille,male,35-44,2,couple,bachelor,186,93,106
+278,Lille,female,25-34,2,couple,bachelor,172,86,103
+279,Lyon,female,25-34,2,couple,bachelor,168,56,74
+280,Lille,male,<25,4,other,high school,175,63,73
+281,Lyon,male,35-44,2,couple,master or doctorate,167,74,97
+282,Montpellier,male,45-54,5,family,bachelor,184,76,87
+283,Lyon,male,<25,3,family,bachelor,183,64,78
+284,Bordeaux,female,35-44,1,single,bachelor,160,80,97
+285,Lyon,female,35-44,3,family,bachelor,165,67,81
+286,Bordeaux,male,35-44,2,couple,master or doctorate,183,69,82
+287,Lyon,female,35-44,6,family,master or doctorate,188,71,88
+288,Lyon,male,25-34,2,couple,high school,193,99,89
+289,Lille,male,25-34,1,single,master or doctorate,177,62,81
+290,Lyon,male,25-34,1,single,master or doctorate,178,68,83
+291,Lyon,female,45-54,2,couple,vocational,160,69,93
+292,Lille,female,<25,3,family,bachelor,172,73,99
+293,Lyon,male,25-34,2,couple,master or doctorate,195,117,110
+294,Montpellier,male,55-64,2,other,master or doctorate,170,65,86
+295,Lyon,female,25-34,1,single,bachelor,160,53,74
+296,Lyon,male,25-34,1,single,master or doctorate,180,72,85
+297,Bordeaux,male,35-44,3,family,bachelor,179,98,112
+298,Bordeaux,female,25-34,2,couple,master or doctorate,172,74,93
+299,Lille,male,25-34,2,couple,master or doctorate,190,73,87
+300,Montpellier,male,55-64,2,couple,bachelor,170,58,78
+301,Lyon,male,25-34,2,couple,bachelor,174,66,84
+302,Lille,male,25-34,2,couple,master or doctorate,178,63,83
+303,Bordeaux,male,35-44,1,single,master or doctorate,178,77,84
+304,Lyon,female,<25,1,couple,high school,170,64,84
+305,Lyon,female,45-54,3,single parent,bachelor,161,58,85
+306,Lille,male,45-54,2,couple,master or doctorate,172,69,90
+307,Lille,female,25-34,2,couple,master or doctorate,162,58,78
+308,Bordeaux,male,35-44,2,couple,bachelor,186,81,90
+309,Montpellier,female,<25,2,other,bachelor,159,51,77
+310,Bordeaux,female,25-34,2,couple,master or doctorate,157,59,173
+311,Bordeaux,male,25-34,2,couple,master or doctorate,176,69,83
+312,Montpellier,male,<25,1,single,high school,170,70,93
+313,Lyon,female,25-34,2,couple,bachelor,163,52,67
+314,Lyon,male,25-34,4,family,master or doctorate,175,82,100
+315,Lyon,male,<25,3,family,bachelor,172,78,95
+316,Montpellier,female,25-34,2,couple,high school,175,115,92
+317,Lyon,male,25-34,2,couple,master or doctorate,175,74,87
+318,Lille,male,25-34,2,couple,master or doctorate,175,85,86
+319,Lyon,male,35-44,2,couple,master or doctorate,182,72,80
+320,Bordeaux,male,25-34,1,single,bachelor,182,85,95
+321,Lyon,female,<25,2,couple,bachelor,155,50,77
+322,Lille,male,<25,1,single,master or doctorate,178,83,0
+323,Lyon,female,35-44,1,single,master or doctorate,168,70,88
+324,Lyon,male,35-44,1,single,no degree,185,77,90
+325,Lille,female,35-44,5,family,master or doctorate,162,61,78
+326,Lyon,male,35-44,4,family,bachelor,177,96,92
+327,Lyon,male,35-44,4,family,bachelor,178,78,92
+328,Lyon,male,35-44,4,family,master or doctorate,170,88,99
+329,Montpellier,male,<25,1,single,high school,185,63,60
+330,Lyon,male,<25,1,single,bachelor,170,68,85
+331,Lyon,male,<25,2,family,bachelor,188,68,75
+332,Lyon,female,25-34,4,family,master or doctorate,167,74,93
+333,Lille,male,35-44,3,family,master or doctorate,169,75,85
+334,Bordeaux,male,25-34,2,couple,master or doctorate,179,97,110
+335,Lyon,male,45-54,4,family,bachelor,181,79,97
+336,Lyon,female,25-34,2,couple,master or doctorate,175,70,90
+337,Montpellier,male,<25,1,single,bachelor,183,81,84
+338,Lyon,male,<25,2,couple,bachelor,181,72,75
+339,Lyon,female,45-54,3,single parent,high school,168,68,97
+340,Lille,male,35-44,5,family,high school,180,87,87
+341,Lyon,male,25-34,4,family,bachelor,170,91,105
+342,Lyon,male,<25,4,other,bachelor,183,92,120
+343,Lyon,male,<25,1,single,master or doctorate,176,64,84
+344,Lyon,female,25-34,4,family,high school,172,65,86
+345,Lille,female,25-34,3,family,master or doctorate,165,55,75
+346,Lyon,female,25-34,3,family,bachelor,170,64,89
+347,Montpellier,male,35-44,3,family,master or doctorate,180,90,95
+348,Lyon,female,25-34,1,single,master or doctorate,173,62,67
+349,Bordeaux,male,25-34,2,other,master or doctorate,172,75,88
+350,Bordeaux,female,25-34,3,family,master or doctorate,158,45,58
+351,Lille,female,25-34,2,couple,bachelor,174,85,101
+352,Montpellier,male,25-34,2,couple,bachelor,183,75,83
+353,Bordeaux,male,25-34,3,family,master or doctorate,179,65,77
+354,Lyon,female,25-34,4,family,bachelor,172,65,91
+355,Lyon,female,25-34,2,other,bachelor,169,51,61
+356,Lyon,male,45-54,1,single,bachelor,177,60,78
+357,Lille,male,55-64,2,couple,master or doctorate,183,80,96
+358,Lyon,male,<25,6,other,master or doctorate,180,75,70
+359,Montpellier,female,25-34,1,single,master or doctorate,153,48,69
+360,Bordeaux,male,25-34,2,couple,bachelor,186,73,40
+361,Lyon,female,<25,2,couple,bachelor,167,60,68
+362,Lyon,female,25-34,2,couple,master or doctorate,168,56,77
+363,Lyon,male,25-34,2,couple,bachelor,180,92,109
+364,Lille,male,25-34,1,single,bachelor,188,77,84
+365,Lyon,male,25-34,2,couple,bachelor,185,83,85
+366,Montpellier,female,35-44,4,family,master or doctorate,171,61,73
+367,Lille,female,<25,4,family,bachelor,173,98,97
+368,Bordeaux,female,35-44,3,single parent,master or doctorate,165,52,75
+369,Lille,male,35-44,4,family,master or doctorate,180,64,86
+370,Montpellier,male,35-44,1,single,bachelor,171,94,105
+371,Lyon,male,25-34,4,family,master or doctorate,176,86,99
+372,Lyon,female,25-34,2,couple,master or doctorate,160,89,117
+373,Lyon,female,<25,1,single,bachelor,163,65,83
+374,Lille,male,45-54,1,single,master or doctorate,168,86,98
+375,Lyon,male,35-44,2,couple,master or doctorate,170,57,70
+376,Montpellier,male,<25,2,couple,master or doctorate,173,75,82
+377,Lille,female,25-34,2,couple,bachelor,160,61,81
+378,Lyon,female,25-34,2,couple,master or doctorate,165,67,87
+379,Bordeaux,male,25-34,2,couple,master or doctorate,178,71,87
+380,Lyon,male,35-44,3,family,bachelor,170,79,95
+381,Montpellier,female,<25,2,couple,high school,170,61,76
+382,Lyon,male,35-44,2,couple,bachelor,176,82,97
+383,Lyon,female,25-34,1,single,bachelor,173,89,114
+384,Bordeaux,female,45-54,3,family,vocational,165,62,80
+385,Lyon,female,65+,1,single,high school,166,69,84
+386,Bordeaux,male,<25,2,couple,master or doctorate,179,63,89
+387,Lyon,male,<25,2,couple,master or doctorate,193,95,125
+388,Montpellier,male,65+,5,family,bachelor,174,65,90
+389,Lyon,female,25-34,3,family,bachelor,160,57,96
+390,Montpellier,male,45-54,2,other,master or doctorate,183,149,130
+391,Bordeaux,male,25-34,2,couple,bachelor,176,85,93
+392,Lyon,male,25-34,2,single parent,bachelor,165,70,86
+393,Bordeaux,female,25-34,1,single,master or doctorate,174,64,71
+394,Bordeaux,male,25-34,2,other,master or doctorate,170,72,76
+395,Lyon,male,25-34,2,couple,bachelor,178,66,90
+396,Lille,male,25-34,2,couple,master or doctorate,180,69,77
+397,Lyon,male,25-34,2,couple,master or doctorate,178,72,75
+398,Bordeaux,male,25-34,2,couple,bachelor,179,64,74
+399,Lille,female,25-34,1,single,master or doctorate,160,54,73
+400,Lille,female,35-44,2,single parent,master or doctorate,157,67,86
+401,Montpellier,female,35-44,3,family,bachelor,163,99,110
+402,Lyon,female,45-54,2,single parent,vocational,169,68,84
+403,Lyon,male,25-34,2,couple,bachelor,183,78,70
+404,Montpellier,male,55-64,3,family,master or doctorate,167,62,89
+405,Lyon,female,<25,5,family,bachelor,158,47,62
+406,Lyon,male,45-54,5,family,master or doctorate,175,86,84
+407,Bordeaux,female,45-54,1,single,master or doctorate,174,58,70
+408,Lyon,female,45-54,5,family,bachelor,177,82,102
+409,Lyon,male,25-34,6,family,bachelor,186,98,95
+410,Montpellier,female,25-34,2,couple,master or doctorate,169,79,95
+411,Lyon,female,45-54,3,family,high school,166,64,76
+412,Lyon,male,25-34,2,couple,bachelor,180,64,41
+413,Lille,male,25-34,2,couple,master or doctorate,180,83,95
+414,Lille,female,25-34,1,single,high school,165,57,77
+415,Montpellier,male,<25,1,family,bachelor,180,86,98
+416,Montpellier,female,55-64,1,single,master or doctorate,160,54,84
+417,Lyon,male,<25,1,single,bachelor,176,60,76
+418,Lyon,male,<25,2,single parent,bachelor,176,55,76
+419,Montpellier,female,<25,4,family,primary,177,85,90
+420,Lille,male,25-34,2,couple,bachelor,168,63,86
+421,Bordeaux,male,25-34,1,single,master or doctorate,189,77,79
+422,Lyon,female,45-54,4,family,master or doctorate,160,50,35
+423,Montpellier,female,25-34,3,other,master or doctorate,169,51,76
+424,Bordeaux,male,35-44,3,family,bachelor,175,95,108
+425,Lyon,male,25-34,4,family,master or doctorate,183,86,94
+426,Lyon,female,25-34,2,couple,master or doctorate,160,76,79
+427,Lyon,male,35-44,1,single,master or doctorate,180,88,94
+428,Bordeaux,male,35-44,4,family,master or doctorate,183,77,92
+429,Montpellier,male,<25,2,couple,bachelor,180,76,82
+430,Lille,male,<25,2,couple,bachelor,184,93,103
+431,Montpellier,male,35-44,1,single,bachelor,174,67,81
+432,Lyon,male,<25,2,couple,master or doctorate,180,103,118
+433,Bordeaux,male,25-34,1,single,high school,169,70,80
+434,Lille,male,<25,1,single,high school,183,53,69
+435,Lille,male,25-34,2,couple,bachelor,174,70,83
+436,Montpellier,male,45-54,2,family,high school,173,72,88
+437,Montpellier,male,45-54,3,family,bachelor,173,92,42
+438,Bordeaux,female,25-34,1,single,bachelor,170,65,79
+439,Lille,female,55-64,1,single,high school,158,53,73
+440,Lille,female,25-34,3,family,master or doctorate,172,73,89
+441,Lyon,male,<25,4,family,bachelor,170,72,87
+442,Lille,male,25-34,2,couple,master or doctorate,178,80,64
+443,Bordeaux,male,35-44,4,family,bachelor,178,83,93
+444,Lyon,female,55-64,1,single,master or doctorate,161,53,70
+445,Lyon,male,35-44,1,single,bachelor,178,82,103
+446,Lyon,female,25-34,2,couple,high school,162,65,75
+447,Lille,female,25-34,3,family,bachelor,156,55,66
+448,Bordeaux,female,45-54,4,family,bachelor,,69,92
+449,Lyon,female,35-44,1,single,bachelor,170,95,99
+450,Bordeaux,male,35-44,4,family,high school,176,84,95
+451,Bordeaux,female,45-54,3,family,bachelor,162,63,87
+452,Montpellier,male,25-34,1,single,master or doctorate,178,76,92
+453,Lyon,male,35-44,2,couple,vocational,168,56,76
+454,Montpellier,male,<25,2,other,vocational,171,92,111
+455,Montpellier,male,65+,2,couple,high school,178,87,101
+456,Bordeaux,female,<25,1,single,high school,160,44,67
+457,Bordeaux,male,25-34,3,family,high school,165,61,75
+458,Lyon,female,<25,5,other,bachelor,169,79,101
+459,Lille,female,<25,4,other,bachelor,160,71,96
+460,Lyon,female,35-44,1,single,bachelor,145,54,80
+461,Bordeaux,female,55-64,1,single,bachelor,167,82,93
+462,Lyon,male,25-34,1,single,master or doctorate,175,80,100
+463,Lille,female,<25,3,family,high school,162,65,80
+464,Lyon,male,45-54,4,family,vocational,155,60,68
+465,Lyon,female,25-34,4,family,master or doctorate,172,100,109
+466,Bordeaux,male,35-44,2,couple,master or doctorate,178,80,92
+467,Bordeaux,male,<25,1,single,bachelor,173,65,73
+468,Lyon,female,45-54,5,family,master or doctorate,175,58,85
+469,Lyon,female,35-44,1,single,high school,167,85,100
+470,Lyon,female,25-34,2,other,bachelor,160,50,82
+471,Lille,male,<25,2,couple,master or doctorate,185,74,40
+472,Lyon,male,25-34,2,couple,master or doctorate,180,74,86
+473,Lille,male,25-34,2,couple,vocational,175,88,91
+474,Lyon,male,25-34,4,family,master or doctorate,184,72,84
+475,Lille,female,25-34,2,couple,master or doctorate,162,54,81
+476,Lyon,male,25-34,2,couple,bachelor,176,63,58
+477,Lille,male,25-34,2,couple,master or doctorate,175,78,90
+478,Lille,female,35-44,4,family,bachelor,155,64,90
+479,Montpellier,male,55-64,4,family,bachelor,160,78,104
+480,Lille,male,45-54,4,family,bachelor,179,76,42
+481,Lyon,female,25-34,1,single,master or doctorate,168,59,85
+482,Lille,female,25-34,2,couple,high school,155,59,89
+483,Bordeaux,male,45-54,4,family,master or doctorate,183,75,89
+484,Lille,female,25-34,1,single,high school,150,37,65
+485,Lyon,male,25-34,2,couple,bachelor,168,73,90
+486,Lyon,female,35-44,1,single,high school,170,46,61
+487,Lyon,male,25-34,1,single,master or doctorate,187,68,81
+488,Lyon,male,45-54,3,family,bachelor,186,89,105
+489,Montpellier,male,25-34,1,single,master or doctorate,170,70,87
+490,Lyon,female,25-34,1,single,high school,168,63,82
+491,Bordeaux,male,25-34,1,single,master or doctorate,192,90,95
+492,Montpellier,female,35-44,1,single,master or doctorate,170,67,83
+493,Montpellier,male,25-34,2,couple,bachelor,180,86,94
+494,Lyon,female,25-34,2,couple,high school,175,84,98
+495,Bordeaux,male,55-64,4,family,primary,175,82,90
+496,Lille,male,55-64,2,couple,master or doctorate,168,60,82
+497,Lyon,female,<25,4,family,primary,158,47,69
+498,Lyon,male,45-54,2,couple,primary,170,68,89
+499,Montpellier,male,<25,3,single parent,bachelor,174,64,78
+500,Bordeaux,female,25-34,1,single,bachelor,166,61,67
+501,Montpellier,male,55-64,2,couple,high school,170,78,105
+502,Lille,female,25-34,3,family,master or doctorate,168,60,80
+503,Bordeaux,male,25-34,1,single,master or doctorate,180,73,80
+504,Lille,female,<25,1,single,master or doctorate,169,79,104
+505,Bordeaux,female,<25,2,couple,master or doctorate,165,61,90
+506,Bordeaux,male,<25,5,family,primary,172,69,88
+507,Lyon,male,25-34,2,couple,master or doctorate,186,100,105
+508,Lyon,female,25-34,2,couple,master or doctorate,175,92,115
+509,Lille,male,<25,2,couple,bachelor,186,131,122
+510,Montpellier,female,25-34,2,couple,master or doctorate,164,52,77
+511,Lille,male,25-34,2,couple,bachelor,182,90,96
+512,Bordeaux,male,25-34,1,couple,master or doctorate,185,82,92
+513,Lyon,female,35-44,2,couple,vocational,172,81,96
+514,Bordeaux,female,35-44,1,single,high school,165,97,110
+515,Lille,male,<25,3,other,bachelor,185,69,84
+516,Montpellier,male,35-44,1,single,bachelor,172,72,88
+517,Lyon,female,25-34,1,single,master or doctorate,161,45,65
+518,Lyon,male,55-64,2,couple,bachelor,171,85,102
+519,Lyon,female,<25,1,single,master or doctorate,182,63,87
+520,Lyon,male,25-34,1,single,master or doctorate,167,71,83
+521,Lyon,male,25-34,1,single,master or doctorate,180,77,86
+522,Lyon,male,25-34,3,other,master or doctorate,173,69,82
+523,Lyon,male,25-34,2,couple,bachelor,185,70,80
+524,Lille,male,45-54,3,family,master or doctorate,171,71,86
+525,Montpellier,female,55-64,1,single,vocational,164,56,84
+526,Lyon,male,35-44,1,couple,bachelor,166,61,78
+527,Lille,female,45-54,2,couple,bachelor,167,69,84
+528,Montpellier,female,<25,2,single parent,bachelor,165,49,73
+529,Lille,male,35-44,4,family,bachelor,168,71,89
+530,Bordeaux,male,25-34,2,couple,master or doctorate,181,82,98
+531,Montpellier,male,25-34,4,family,master or doctorate,177,69,99
+532,Bordeaux,male,25-34,3,other,bachelor,184,76,86
+533,Lyon,female,<25,3,family,bachelor,165,52,62
+534,Lyon,male,35-44,1,single,vocational,170,85,120
+535,Lyon,female,25-34,1,single,master or doctorate,162,50,66
+536,Lyon,female,25-34,3,family,bachelor,158,51,81
+537,Montpellier,male,25-34,2,couple,master or doctorate,175,85,95
+538,Montpellier,male,65+,1,single,vocational,170,83,106
+539,Lyon,female,<25,1,single,bachelor,163,65,73
+540,Lyon,female,35-44,2,couple,master or doctorate,169,65,75
+541,Lille,female,25-34,2,couple,master or doctorate,170,55,75
+542,Lille,male,25-34,3,other,bachelor,180,65,82
+543,Bordeaux,female,25-34,2,couple,master or doctorate,170,55,80
+544,Lyon,female,<25,1,couple,master or doctorate,163,67,70
+545,Bordeaux,male,35-44,4,family,master or doctorate,160,73,100
+546,Lyon,female,25-34,4,family,master or doctorate,151,48,83
+547,Lyon,male,35-44,4,couple,primary,175,68,88
+548,Montpellier,male,25-34,3,family,vocational,170,84,98
+549,Lyon,female,25-34,1,single,master or doctorate,165,80,95
+550,Lyon,female,<25,1,other,master or doctorate,164,59,175
+551,Lyon,male,25-34,2,couple,master or doctorate,186,110,110
+552,Lyon,female,35-44,4,family,master or doctorate,163,62,80
+553,Lyon,male,<25,5,other,bachelor,185,80,83
+554,Lyon,male,35-44,4,family,master or doctorate,187,76,85
+555,Montpellier,female,35-44,5,family,bachelor,170,78,92
+556,Lyon,female,25-34,2,couple,bachelor,160,56,76
+557,Lille,male,25-34,2,couple,high school,180,80,100
+558,Montpellier,male,35-44,5,family,master or doctorate,178,77,42
+559,Lyon,male,25-34,3,other,master or doctorate,192,90,99
+560,Lyon,male,25-34,1,single parent,master or doctorate,175,85,75
+561,Lyon,female,25-34,4,family,master or doctorate,173,64,97
+562,Bordeaux,female,35-44,1,single,high school,165,96,110
+563,Lille,female,35-44,1,single,bachelor,162,55,88
+564,Lyon,male,35-44,1,single,bachelor,181,81,98
+565,Lille,female,<25,2,other,master or doctorate,169,68,72
+566,Lyon,male,45-54,1,couple,bachelor,187,84,94
+567,Lille,female,25-34,2,couple,high school,180,80,100
+568,Lyon,male,55-64,2,couple,bachelor,172,89,106
+569,Bordeaux,male,25-34,2,couple,master or doctorate,186,93,104
+570,Montpellier,female,25-34,2,couple,master or doctorate,163,52,65
+571,Lyon,male,25-34,2,couple,bachelor,185,86,91
+572,Bordeaux,female,25-34,1,couple,bachelor,162,52,67
+573,Bordeaux,female,25-34,2,couple,bachelor,162,59,78
+574,Montpellier,male,25-34,2,couple,master or doctorate,176,86,90
+575,Bordeaux,male,45-54,3,family,vocational,173,73,98
+576,Lyon,female,25-34,3,other,bachelor,162,58,68
+577,Lyon,male,<25,1,single,bachelor,177,82,83
+578,Bordeaux,male,<25,2,other,bachelor,183,78,86
+579,Bordeaux,female,25-34,5,other,master or doctorate,157,64,80
+580,Lyon,female,25-34,2,couple,master or doctorate,168,52,65
+581,Lyon,female,25-34,4,family,master or doctorate,176,75,85
+582,Lille,female,25-34,3,other,bachelor,165,60,92
+583,Montpellier,female,<25,4,family,bachelor,164,65,86
+584,Lyon,female,25-34,1,single,bachelor,165,65,75
+585,Lyon,female,35-44,4,family,master or doctorate,164,67,93
+586,Lille,male,25-34,2,couple,bachelor,192,95,99
+587,Bordeaux,male,45-54,2,couple,bachelor,167,60,75
+588,Lyon,male,25-34,1,single,master or doctorate,171,71,82
+589,Lyon,female,45-54,2,single parent,master or doctorate,166,58,72
+590,Lille,male,25-34,2,couple,master or doctorate,186,80,89
+591,Lyon,male,25-34,2,family,bachelor,174,92,46
+592,Lille,female,25-34,2,couple,master or doctorate,165,58,70
+593,Bordeaux,female,<25,2,couple,bachelor,167,67,77
+594,Lyon,male,25-34,3,family,bachelor,182,72,87
+595,Lyon,female,25-34,1,single,master or doctorate,165,60,68
+596,Lyon,male,25-34,2,couple,master or doctorate,172,69,77
+597,Montpellier,female,35-44,3,family,bachelor,163,61,84
+598,Lille,female,<25,2,single parent,bachelor,160,51,80
+599,Bordeaux,male,25-34,2,couple,bachelor,172,68,80
+600,Lille,male,25-34,2,couple,bachelor,170,60,68
+601,Bordeaux,male,25-34,1,single,bachelor,175,65,87
+602,Lyon,male,35-44,3,family,bachelor,171,86,109
+603,Bordeaux,male,45-54,5,family,master or doctorate,185,77,97
+604,Lyon,female,25-34,2,couple,master or doctorate,167,100,95
+605,Lyon,female,25-34,2,couple,master or doctorate,167,64,72
+606,Bordeaux,male,35-44,2,couple,bachelor,182,78,88
+607,Bordeaux,male,45-54,5,family,bachelor,175,76,84
+608,Lyon,male,25-34,2,couple,high school,168,55,72
+609,Lille,male,25-34,2,couple,high school,180,115,118
+610,Lyon,female,55-64,1,single,primary,175,62,80
+611,Lille,male,25-34,1,single,master or doctorate,180,80,98
+612,Lyon,female,35-44,4,family,bachelor,160,57,83
+613,Montpellier,female,45-54,5,family,master or doctorate,158,60,84
+614,Lyon,female,<25,1,single,bachelor,158,61,41
+615,Lille,female,25-34,1,single,master or doctorate,167,60,65
+616,Lyon,female,35-44,2,single parent,master or doctorate,178,74,101
+617,Bordeaux,female,25-34,1,single,bachelor,168,70,85
+618,Lyon,female,45-54,4,family,bachelor,178,69,82
+619,Lyon,female,25-34,1,single,bachelor,171,75,98
+620,Lyon,female,25-34,2,couple,bachelor,174,61,69
+621,Lyon,male,25-34,1,single,master or doctorate,179,80,91
+622,Lille,male,45-54,1,single,bachelor,178,97,102
+623,Lille,female,45-54,6,family,master or doctorate,166,58,71
+624,Lille,female,35-44,2,couple,master or doctorate,174,65,77
+625,Montpellier,male,25-34,1,single,master or doctorate,178,83,55
+626,Bordeaux,female,25-34,2,couple,master or doctorate,160,57,82
+627,Lyon,female,45-54,3,family,master or doctorate,173,82,99
+628,Lyon,female,<25,2,couple,bachelor,161,66,66
+629,Bordeaux,female,25-34,2,couple,master or doctorate,168,65,75
+630,Bordeaux,female,25-34,2,other,master or doctorate,158,54,68
+631,Lille,male,25-34,3,family,master or doctorate,181,101,100
+632,Lyon,male,25-34,3,family,master or doctorate,186,87,92
+633,Bordeaux,female,<25,2,couple,bachelor,163,61,66
+634,Bordeaux,male,25-34,1,single,bachelor,187,90,94
+635,Lyon,female,35-44,1,single,master or doctorate,176,90,86
+636,Lyon,female,45-54,3,family,bachelor,157,54,80
+637,Lyon,female,<25,4,family,bachelor,169,72,95
+638,Lyon,male,<25,2,other,high school,175,75,95
+639,Lyon,female,25-34,2,couple,master or doctorate,171,84,74
+640,Bordeaux,female,<25,2,couple,bachelor,195,78,95
+641,Bordeaux,female,35-44,3,family,bachelor,156,59,89
+642,Montpellier,female,35-44,2,single parent,bachelor,165,85,100
+643,Bordeaux,female,35-44,1,single,bachelor,162,66,78
+644,Montpellier,male,25-34,1,single,bachelor,183,89,79
+645,Lyon,female,25-34,2,couple,master or doctorate,174,69,80
+646,Lyon,female,25-34,2,family,high school,156,56,91
+647,Lyon,male,35-44,3,family,vocational,175,78,90
+648,Lyon,male,<25,2,couple,master or doctorate,176,72,95
+649,Lyon,male,25-34,2,couple,bachelor,170,75,96
+650,Lille,male,45-54,4,family,master or doctorate,181,75,74
+651,Lyon,female,35-44,4,family,master or doctorate,172,63,73
+652,Lyon,female,25-34,2,couple,master or doctorate,169,53,74
+653,Lyon,male,45-54,2,couple,vocational,172,73,92
+654,Montpellier,female,25-34,1,single,bachelor,178,78,87
+655,Lyon,female,25-34,1,single,master or doctorate,173,72,93
+656,Lyon,male,35-44,4,family,bachelor,176,74,85
+657,Lille,male,25-34,2,couple,master or doctorate,187,95,100
+658,Bordeaux,male,<25,2,couple,master or doctorate,178,83,93
+659,Lyon,male,25-34,1,single,bachelor,185,73,83
+660,Lyon,female,35-44,2,couple,high school,162,65,80
+661,Bordeaux,male,<25,1,single,bachelor,178,110,109
+662,Lyon,female,45-54,4,family,bachelor,166,90,109
+663,Lyon,female,25-34,3,family,bachelor,163,66,73
+664,Lyon,male,<25,4,single parent,,,,
+665,Lille,female,<25,2,couple,bachelor,167,60,73
+666,Lyon,female,25-34,2,couple,bachelor,165,73,88
+667,Lyon,male,25-34,2,couple,bachelor,185,70,86
+668,Lyon,female,<25,2,single parent,high school,162,55,86
+669,Lille,female,25-34,2,couple,bachelor,169,64,83
+670,Lille,female,45-54,2,couple,bachelor,164,54,71
+671,Lille,female,35-44,3,family,vocational,167,68,78
+672,Lyon,female,35-44,2,couple,high school,160,53,77
+673,Lille,male,35-44,3,family,bachelor,178,64,82
+674,Lyon,female,35-44,3,family,bachelor,169,70,91
+675,Bordeaux,female,45-54,4,family,master or doctorate,168,75,42
+676,Montpellier,male,25-34,4,family,bachelor,187,95,92
+677,Lille,male,<25,2,couple,bachelor,174,86,101
+678,Bordeaux,male,25-34,1,single,master or doctorate,178,79,90
+679,Lyon,male,25-34,2,couple,bachelor,181,74,40
+680,Bordeaux,female,25-34,1,single,master or doctorate,163,45,63
+681,Bordeaux,male,25-34,3,family,master or doctorate,177,78,93
+682,Lyon,female,25-34,2,couple,master or doctorate,165,76,80
+683,Lille,male,25-34,2,couple,master or doctorate,180,94,103
+684,Lille,female,35-44,2,couple,bachelor,173,66,80
+685,Bordeaux,female,25-34,2,couple,bachelor,161,73,90
+686,Lille,female,25-34,2,couple,bachelor,175,85,100
+687,Bordeaux,male,35-44,4,family,master or doctorate,171,80,100
+688,Lyon,male,<25,2,couple,bachelor,184,80,90
+689,Lyon,male,25-34,2,couple,high school,182,88,98
+690,Montpellier,male,35-44,2,couple,high school,181,104,109
+691,Lille,female,25-34,1,single,master or doctorate,156,64,76
+692,Lyon,female,25-34,2,couple,bachelor,172,69,87
+693,Lyon,male,25-34,2,couple,master or doctorate,180,120,115
+694,Bordeaux,male,25-34,2,couple,master or doctorate,170,55,74
+695,Lyon,male,45-54,4,family,bachelor,188,97,108
+696,Lyon,male,25-34,1,single,bachelor,178,105,108
+697,Bordeaux,male,55-64,2,couple,high school,182,89,101
+698,Lille,female,25-34,4,family,master or doctorate,173,78,70
+699,Lyon,female,25-34,2,other,master or doctorate,162,58,75
+700,Montpellier,male,25-34,1,single,bachelor,170,78,84
+701,Lille,female,25-34,3,family,master or doctorate,159,60,90
+702,Montpellier,female,45-54,3,family,master or doctorate,160,75,98
+703,Lyon,male,25-34,3,family,master or doctorate,188,90,96
+704,Lyon,female,<25,2,couple,bachelor,169,72,90
+705,Lille,male,25-34,1,single,master or doctorate,185,87,90
+706,Lyon,male,25-34,2,couple,bachelor,174,76,100
+707,Bordeaux,male,25-34,2,couple,master or doctorate,176,72,94
+708,Lyon,female,<25,2,couple,bachelor,160,74,90
+709,Lille,male,25-34,1,single,master or doctorate,186,76,86
+710,Lyon,female,<25,2,couple,master or doctorate,163,53,73
+711,Montpellier,female,45-54,4,family,primary,167,66,81
+712,Bordeaux,female,25-34,1,single,bachelor,156,60,82
+713,Bordeaux,male,25-34,1,single,master or doctorate,182,82,90
+714,Bordeaux,male,35-44,4,family,bachelor,188,72,91
+715,Montpellier,male,25-34,1,single,master or doctorate,172,53,88
+716,Montpellier,female,45-54,5,family,master or doctorate,165,73,88
+717,Lyon,female,35-44,5,family,master or doctorate,168,65,83
+718,Bordeaux,male,<25,3,other,master or doctorate,181,59,70
+719,Lyon,male,45-54,4,family,master or doctorate,183,72,88
+720,Lyon,male,55-64,1,single,master or doctorate,172,72,90
+721,Lyon,female,45-54,2,other,master or doctorate,168,83,98
+722,Montpellier,male,55-64,3,family,high school,174,86,99
+723,Lille,male,25-34,2,couple,master or doctorate,173,91,114
+724,Lyon,male,45-54,4,other,bachelor,183,94,100
+725,Bordeaux,female,25-34,3,family,high school,166,74,89
+726,Lyon,female,25-34,1,single,bachelor,151,45,75
+727,Bordeaux,male,25-34,1,single,bachelor,187,72,87
+728,Lyon,female,<25,4,other,bachelor,168,62,90
+729,Lyon,male,45-54,1,single,master or doctorate,183,76,86
+730,Montpellier,male,45-54,1,single,master or doctorate,178,98,111
+731,Montpellier,female,35-44,3,single parent,high school,165,86,112
+732,Lyon,female,25-34,2,couple,bachelor,162,72,83
+733,Lyon,male,25-34,4,family,bachelor,171,65,80
+734,Lille,female,<25,1,single,master or doctorate,,60,62
+735,Lille,male,25-34,2,couple,master or doctorate,180,72,84
+736,Lyon,female,35-44,3,family,bachelor,167,140,132
+737,Bordeaux,female,<25,2,other,master or doctorate,169,54,73
+738,Lyon,male,<25,1,single,bachelor,164,51,70
+739,Bordeaux,female,25-34,3,family,master or doctorate,167,58,73
+740,Bordeaux,male,25-34,2,couple,bachelor,177,65,75
+741,Lille,female,25-34,2,couple,master or doctorate,168,69,76
+742,Bordeaux,female,35-44,1,single,bachelor,168,75,86
+743,Lille,female,45-54,5,family,master or doctorate,162,56,80
+744,Lyon,female,25-34,2,other,bachelor,165,80,90
+745,Bordeaux,female,<25,2,other,vocational,162,45,85
+746,Lyon,female,55-64,2,couple,bachelor,152,68,98
+747,Bordeaux,male,35-44,1,single,vocational,172,72,83
+748,Lyon,male,55-64,2,couple,high school,187,81,100
+749,Lyon,male,25-34,1,single,high school,175,95,101
+750,Lyon,female,25-34,1,single,master or doctorate,165,57,80
+751,Montpellier,female,45-54,1,single,high school,160,55,88
+752,Lyon,female,35-44,4,family,bachelor,170,73,90
+753,Lyon,male,45-54,4,family,bachelor,184,92,108
+754,Lyon,female,35-44,1,single,bachelor,165,60,90
+755,Lyon,female,55-64,4,other,high school,157,86,107
+756,Montpellier,male,35-44,3,family,master or doctorate,191,104,110
+757,Lyon,female,35-44,4,family,master or doctorate,161,50,69
+758,Lyon,male,35-44,1,single,bachelor,185,85,95
+759,Lyon,male,25-34,1,single,master or doctorate,186,128,131
+760,Montpellier,female,25-34,2,single parent,high school,169,73,91
+761,Montpellier,female,55-64,1,single,high school,169,73,91
+762,Montpellier,female,45-54,2,couple,bachelor,156,67,95
+763,Lyon,female,25-34,2,couple,bachelor,170,72,95
+764,Lyon,male,45-54,1,single,vocational,173,89,100
+765,Lyon,female,45-54,1,single,high school,166,133,111
+766,Bordeaux,female,25-34,1,single,master or doctorate,155,45,72
+767,Lyon,male,35-44,5,family,master or doctorate,176,82,89
+768,Montpellier,male,25-34,1,single,master or doctorate,177,65,77
+769,Montpellier,male,<25,1,single,bachelor,176,73,80
+770,Montpellier,female,25-34,4,couple,bachelor,167,68,95
+771,Lille,female,<25,2,couple,bachelor,165,93,116
+772,Bordeaux,female,25-34,2,couple,master or doctorate,165,56,63
+773,Lyon,male,25-34,2,other,bachelor,172,106,101
+774,Lyon,male,25-34,5,family,master or doctorate,175,94,112
+775,Montpellier,male,25-34,2,couple,master or doctorate,175,75,81
+776,Lyon,female,25-34,2,couple,master or doctorate,171,69,85
+777,Lyon,male,25-34,2,couple,bachelor,167,74,70
+778,Lyon,male,<25,2,couple,master or doctorate,174,65,79
+779,Lyon,male,35-44,4,family,bachelor,180,75,95
+780,Lyon,female,55-64,2,couple,high school,165,62,85
+781,Lyon,female,45-54,1,single,master or doctorate,162,65,84
+782,Montpellier,male,25-34,2,couple,master or doctorate,172,71,79
+783,Lyon,female,<25,1,single,vocational,162,49,74
+784,Montpellier,male,35-44,4,family,bachelor,165,73,93
+785,Lyon,female,25-34,1,single,high school,163,68,90
+786,Montpellier,male,25-34,1,couple,bachelor,185,84,82
+787,Lyon,female,45-54,2,couple,high school,161,71,91
+788,Montpellier,male,45-54,5,family,master or doctorate,172,78,100
+789,Montpellier,male,25-34,2,couple,bachelor,175,72,90
+790,Lyon,male,55-64,2,couple,bachelor,187,87,92
+791,Montpellier,female,35-44,3,family,bachelor,168,89,93
+792,Montpellier,male,25-34,3,family,bachelor,176,74,88
+793,Lyon,male,25-34,2,other,master or doctorate,179,84,93
+794,Lille,female,<25,1,single,bachelor,168,66,72
+795,Lyon,female,<25,2,couple,master or doctorate,165,54,65
+796,Lyon,female,55-64,1,single,master or doctorate,172,71,86
+797,Lyon,female,35-44,4,family,bachelor,164,73,98
+798,Lyon,male,45-54,2,couple,high school,185,140,132
+799,Lyon,female,45-54,4,family,bachelor,154,72,105
+800,Montpellier,female,45-54,1,single,master or doctorate,165,60,80
+801,Montpellier,male,25-34,2,couple,master or doctorate,174,95,103
+802,Lyon,female,25-34,1,single,bachelor,170,65,82
+803,Lyon,female,35-44,4,family,master or doctorate,160,54,83
+804,Montpellier,female,45-54,1,single,vocational,171,63,76
+805,Lyon,male,45-54,4,family,bachelor,175,85,105
+806,Lyon,female,45-54,1,single,bachelor,163,59,87
+807,Lille,female,25-34,1,single,bachelor,168,64,68
+808,Lille,male,25-34,1,single,bachelor,178,90,60
+809,Montpellier,female,45-54,3,family,bachelor,161,77,90
+810,Lyon,female,35-44,3,family,high school,160,85,93
+811,Bordeaux,female,<25,2,couple,master or doctorate,165,60,76
+812,Bordeaux,female,45-54,2,couple,master or doctorate,165,60,76
+813,Montpellier,female,35-44,3,family,master or doctorate,170,57,69
+814,Bordeaux,male,45-54,2,couple,master or doctorate,165,60,76
+815,Montpellier,female,<25,4,family,high school,153,48,73
+816,Lyon,female,<25,5,family,high school,162,61,92
+817,Montpellier,female,35-44,5,family,high school,160,59,87
+818,Lyon,female,55-64,1,single,vocational,154,84,110
+819,Lyon,female,45-54,3,single parent,bachelor,165,55,75
+820,Lille,male,25-34,1,single,master or doctorate,175,79,86
+821,Lille,male,25-34,2,other,master or doctorate,170,58,76
+822,Lille,female,25-34,1,single,bachelor,168,59,69
+823,Lyon,female,25-34,3,family,master or doctorate,160,63,90
+824,Montpellier,female,35-44,3,other,high school,160,50,70
+825,Lyon,female,45-54,2,couple,bachelor,168,68,83
+826,Lyon,female,35-44,4,family,bachelor,160,67,80
+827,Montpellier,male,25-34,3,family,high school,182,76,88
+828,Montpellier,female,25-34,2,couple,master or doctorate,167,60,80
+829,Lyon,female,35-44,4,family,bachelor,158,47,65
+830,Montpellier,female,25-34,3,other,bachelor,157,48,65
+831,Lyon,male,45-54,4,family,master or doctorate,178,73,88
+832,Lyon,female,55-64,2,couple,high school,152,53,78
+833,Lyon,male,25-34,1,single,master or doctorate,180,65,82
+834,Lyon,male,35-44,4,family,master or doctorate,197,78,85
+835,Montpellier,female,<25,1,single,high school,168,50,88
+836,Montpellier,female,25-34,2,couple,bachelor,156,45,70
+837,Lyon,female,<25,3,family,bachelor,160,90,79
+838,Lyon,female,25-34,1,single,bachelor,157,62,89
+839,Lyon,male,55-64,2,couple,master or doctorate,176,85,100
+840,Lyon,female,45-54,5,family,high school,162,56,70
+841,Lyon,female,25-34,2,couple,bachelor,168,49,60
+842,Lyon,female,25-34,3,single parent,high school,175,66,77
+843,Lyon,female,25-34,1,single,master or doctorate,170,49,73
+844,Lyon,male,25-34,2,couple,bachelor,172,97,122
+845,Lyon,female,25-34,4,family,bachelor,162,64,92
+846,Bordeaux,female,35-44,2,couple,master or doctorate,169,60,74
+847,Lille,male,25-34,2,couple,master or doctorate,181,72,80
+848,Lyon,female,55-64,1,single,high school,158,53,84
+849,Lyon,male,45-54,4,family,bachelor,172,71,84
+850,Lyon,female,25-34,1,single,master or doctorate,158,57,78
+851,Lyon,female,55-64,2,couple,master or doctorate,160,50,68
+852,Montpellier,female,35-44,3,single parent,master or doctorate,160,58,80
+853,Lyon,male,55-64,3,family,vocational,170,77,100
+854,Lyon,male,45-54,3,family,high school,175,85,100
+855,Lyon,male,25-34,2,couple,master or doctorate,185,72,75
+856,Lyon,female,45-54,1,single,bachelor,169,93,107
+857,Lyon,male,55-64,2,couple,master or doctorate,180,78,99
+858,Lyon,female,25-34,1,single,master or doctorate,158,74,82
+859,Lyon,female,35-44,1,single,high school,168,55,85
+860,Lyon,male,45-54,3,single parent,master or doctorate,176,65,85
+861,Lyon,male,25-34,2,couple,master or doctorate,172,62,85
+862,Lyon,male,45-54,2,family,master or doctorate,172,82,83
+863,Lyon,female,35-44,5,family,bachelor,163,55,77
+864,Montpellier,male,35-44,4,family,master or doctorate,185,88,70
+865,Lyon,female,25-34,2,couple,master or doctorate,160,52,70
+866,Lyon,male,25-34,2,couple,bachelor,181,80,98
+867,Lyon,female,25-34,1,single,master or doctorate,170,65,87
+868,Lyon,female,25-34,3,other,master or doctorate,158,52,73
+869,Lyon,female,45-54,2,single parent,high school,161,68,91
+870,Lyon,female,35-44,2,couple,master or doctorate,158,44,65
+871,Lyon,male,<25,1,single,master or doctorate,187,95,110
+872,Lyon,male,25-34,2,couple,master or doctorate,182,73,80
+873,Lyon,female,<25,2,single parent,bachelor,152,55,70
+874,Montpellier,male,25-34,1,single,bachelor,170,73,92
+875,Lyon,female,45-54,2,single parent,master or doctorate,165,70,95
+876,Lyon,male,45-54,4,family,master or doctorate,195,155,147
+877,Lyon,male,25-34,1,single,master or doctorate,180,108,110
+878,Lyon,male,35-44,2,couple,master or doctorate,175,70,88
+879,Lyon,male,25-34,4,family,master or doctorate,175,61,80
+880,Lyon,female,45-54,5,family,bachelor,160,68,92
+881,Montpellier,female,45-54,1,single,high school,173,84,92
+882,Lille,female,45-54,2,couple,master or doctorate,168,55,27
+883,Lyon,male,25-34,4,family,master or doctorate,187,81,97
+884,Bordeaux,male,45-54,4,family,master or doctorate,182,81,98
+885,Lyon,female,25-34,2,couple,bachelor,173,64,70
+886,Lyon,male,25-34,2,couple,bachelor,182,60,74
+887,Lyon,male,25-34,3,other,master or doctorate,175,74,93
+888,Lyon,female,25-34,2,couple,master or doctorate,159,67,93
+889,Lyon,female,<25,1,single,high school,155,67,100
+890,Lyon,male,25-34,3,family,master or doctorate,182,91,94
+891,Bordeaux,male,55-64,4,family,master or doctorate,175,69,88
+892,Bordeaux,male,45-54,4,family,high school,181,98,110
+893,Lyon,male,35-44,4,family,master or doctorate,178,82,90
+894,Lyon,male,35-44,5,family,master or doctorate,182,70,82
+895,Lyon,male,25-34,1,single,vocational,181,80,101
+896,Montpellier,male,35-44,5,family,master or doctorate,170,68,95
+897,Lyon,male,25-34,2,couple,bachelor,168,74,90
+898,Lyon,male,45-54,4,family,bachelor,183,80,100
+899,Lyon,female,35-44,2,couple,bachelor,170,59,80
+900,Lyon,female,25-34,2,couple,bachelor,160,60,79
+901,Lille,male,25-34,3,other,master or doctorate,172,66,89
+902,Lyon,female,55-64,2,single parent,master or doctorate,171,88,112
+903,Bordeaux,female,35-44,4,family,bachelor,157,55,87
+904,Lille,female,25-34,2,couple,bachelor,180,68,77
+905,Lille,female,35-44,2,single parent,bachelor,163,73,99
+906,Lyon,female,<25,1,single,master or doctorate,170,55,75
+907,Lyon,female,45-54,5,family,master or doctorate,168,63,90
+908,Lyon,female,45-54,2,couple,high school,154,64,91
+909,Bordeaux,female,25-34,2,couple,master or doctorate,172,58,71
+910,Bordeaux,male,35-44,2,couple,master or doctorate,180,70,88
+911,Montpellier,female,35-44,4,family,bachelor,168,61,78
+912,Lyon,male,45-54,3,family,master or doctorate,178,116,120
+913,Bordeaux,female,35-44,3,family,bachelor,160,66,92
+914,Lyon,female,25-34,1,single,master or doctorate,161,55,68
+915,Lyon,female,25-34,2,couple,master or doctorate,165,57,90
+916,Lyon,male,45-54,5,family,master or doctorate,173,66,62
+917,Bordeaux,male,25-34,3,family,bachelor,189,88,81
+918,Lyon,male,25-34,3,family,master or doctorate,185,97,106
+919,Montpellier,male,35-44,3,family,high school,190,92,93
+920,Lille,female,25-34,2,couple,bachelor,163,54,73
+921,Lyon,male,55-64,4,family,bachelor,166,90,109
+922,Lille,male,35-44,2,couple,bachelor,174,78,99
+923,Lyon,female,25-34,1,single,master or doctorate,169,53,60
+924,Bordeaux,male,35-44,4,family,bachelor,165,69,86
+925,Bordeaux,male,25-34,5,family,high school,177,69,88
+926,Bordeaux,male,35-44,1,single,bachelor,172,66,81
+927,Lyon,female,45-54,3,family,primary,169,108,108
+928,Montpellier,female,35-44,1,single,master or doctorate,167,64,85
+929,Lille,male,25-34,2,couple,bachelor,190,83,89
