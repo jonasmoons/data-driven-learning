@@ -24,7 +24,7 @@ For every week there is a Jupyter Notebook containing examples relating to the s
 	+ [Data cleaning](examples/week-4/lesson-1/data_cleaning.ipynb)
 	+ [Distributions](examples/week-4/lesson-1/distributions.ipynb)
 	+ [Hypothesis testing](examples/week-4/lesson-2/hypothesis_testing.ipynb)
-* [Week 2: linear regression, logistic regression]
+* Week 2: linear regression, logistic regression
 	+ [Correlation](examples/week-5/lesson-1/correlation.ipynb)
 	+ [Linear regression](examples/week-5/lesson-1/linear_regression.ipynb)
 	+ [Evaluating regression](examples/week-5/lesson-1/evaluating_regression.ipynb)
