@@ -1,12 +1,12 @@
-## What is on Learn and what is on GitHub?##
+## What is on Learn and what is on GitHub?
 * On GitHub: example Notebooks, slides, extra material, exercises (in slides), public data sets for exercises
 * On Learn: student manual, final assignments, overview of content per week, slides (duplicate), non-public data sets, uploading exercises
 
 ## Table of contents
 * [Essentials](#essentials)
+* [Slides](#slides)
 * [Examples](#examples)
 * [Exercises](#exercises)
-* [Slides](#slides)
 * [Resources and tips](#resources-and-tips)
 
 ## Essentials
@@ -18,20 +18,17 @@
 * [Cheatsheet](cheatsheet.md)
 * [Students and their Github accounts](students.md)
 
-### Mathematics
-Using tools from data science and machine learning would not make a lot of sense without some understanding of mathematics and statistics. However, the focus of the course is on the application of data science, rather than the mathematical foundation. If I use formulas, I will not focus on the technical aspects, but explain what they do conceptually. If you need to catch up on math, you can use these links to the [Khan Academy](https://www.khanacademy.org/):
-
-* [Basic algebra](https://www.khanacademy.org/math/algebra/introduction-to-algebra)
-* [Equations and variables](https://www.khanacademy.org/math/algebra/one-variable-linear-equations)
-* [Squares and roots](https://www.khanacademy.org/math/in-eighth-grade-math/squares-square-roots)
-* [The coordinate plane and linear equations](https://www.khanacademy.org/math/algebra/two-var-linear-equations)
-* [Exponents](https://www.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals#pre-algebra-exponents) and [logarithms](https://www.khanacademy.org/math/algebra2/exponential-and-logarithmic-functions/introduction-to-logarithms/a/intro-to-logarithms)
-* [Basic probability theory](https://www.khanacademy.org/math/probability/probability-geometry#probability-basics)
-
 ### Examples
 For every week there is a Jupyter Notebook containing examples relating to the subjects of that week
-* [Week 1: exploratory data analysis, graphs, Seaborn](examples/examples-1.ipynb)
-* [Week 2: hypothesis testing, model evaluation, linear regression, logistic regression](examples/examples-2.ipynb)
+* Week 1: understanding and exploring data
+** [Data cleaning](examples/week-4/lesson-1/data_cleaning.ipynb)
+** [Distributions](examples/week-4/lesson-1/distributions.ipynb)
+** [Hypothesis testing](examples/week-4/lesson-2/hypothesis_testing.ipynb)
+
+* [Week 2: Linear regression, logistic regression]
+** [Correlation] (examples/week-5/lesson-1/correlation.ipynb)
+** [Linear regression] (examples/week-5/lesson-1/linear_regression.ipynb)
+** [Evaluating regression] (examples/week-5/lesson-1/evaluating_regression.ipynb)
 * [Week 3: supervised machine learning](examples/examples-3.ipynb)
 * [Week 4: unsupervised machine learning](examples/examples-4.ipynb)
 * [Week 5: text mining and cross-validation](examples/examples-5.ipynb)
@@ -53,7 +50,6 @@ These are PDF versions of the slides I give every week.
 * [Week 8, lesson 2](slides/ddl-w8l2.pptx)
 
 ### Resources and tips
-*Feel free to [fork](https://help.github.com/articles/fork-a-repo/) this file and add more resources!*
 
 #### Python
 * [Extensive Python cheatsheet with examples](https://github.com/wilfredinni/python-cheatsheet#python-basics)
@@ -62,9 +58,14 @@ These are PDF versions of the slides I give every week.
 * [Datacamp Python for data science](https://campus.datacamp.com/courses/intro-to-python-for-data-science/)
 
 #### Mathematics
-If you are struggling with the mathematics of the course, check out:
-* Algebra on Khan Academy (https://www.khanacademy.org/math/algebra)
-* Statistics and probability (https://www.khanacademy.org/math/statistics-probability)
+Using tools from data science and machine learning would not make a lot of sense without some understanding of mathematics and statistics. However, the focus of the course is on the application of data science, rather than the mathematical foundation. If I use formulas, I will not focus on the technical aspects, but explain what they do conceptually. If you need to catch up on math, you can use these links to the [Khan Academy](https://www.khanacademy.org/):
+
+* [Basic algebra](https://www.khanacademy.org/math/algebra/introduction-to-algebra)
+* [Equations and variables](https://www.khanacademy.org/math/algebra/one-variable-linear-equations)
+* [Squares and roots](https://www.khanacademy.org/math/in-eighth-grade-math/squares-square-roots)
+* [The coordinate plane and linear equations](https://www.khanacademy.org/math/algebra/two-var-linear-equations)
+* [Exponents](https://www.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals#pre-algebra-exponents) and [logarithms](https://www.khanacademy.org/math/algebra2/exponential-and-logarithmic-functions/introduction-to-logarithms/a/intro-to-logarithms)
+* [Basic probability theory](https://www.khanacademy.org/math/probability/probability-geometry#probability-basics)
 
 #### Data science and machine learning
 * Good introduction: Machine learning is fun (https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
