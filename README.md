@@ -1,3 +1,7 @@
+## What is on Learn and what is on GitHub?##
+* On GitHub: example Notebooks, slides, extra material, exercises (in slides), public data sets for exercises
+* On Learn: student manual, final assignments, overview of content per week, slides (duplicate), non-public data sets, uploading exercises
+
 ## Table of contents
 * [Essentials](#essentials)
 * [Examples](#examples)
@@ -33,20 +37,20 @@ For every week there is a Jupyter Notebook containing examples relating to the s
 * [Week 5: text mining and cross-validation](examples/examples-5.ipynb)
 
 ### Exercises
-These are optional exercises you can make during the lesson to test your knowledge. You **don't** need to submit these with the final assignment.
+These are exercises you can make during the lesson to test your knowledge. You **don't** need to submit these with the final assignment. You can find the exercises in the slides.
 
 ### Slides
 These are PDF versions of the slides I give every week.
-* [Week 4, lesson 1](slides/ddl-w4l1.pdf)
-* [Week 4, lesson 2](slides/ddl-w4l2.pdf)
-* [Week 5, lesson 1](slides/ddl-w5l1.pdf)
-* [Week 5, lesson 2](slides/ddl-w5l2.pdf)
-* [Week 6, lesson 1](slides/ddl-w6l1.pdf)
-* [Week 6, lesson 2](slides/ddl-w6l2.pdf)
-* [Week 7, lesson 1](slides/ddl-w7l1.pdf)
-* [Week 7, lesson 2](slides/ddl-w7l2.pdf)
-* [Week 8, lesson 1](slides/ddl-w8l1.pdf)
-* [Week 8, lesson 2](slides/ddl-w8l2.pdf)
+* [Week 4, lesson 1](slides/ddl-w4l1.pptx)
+* [Week 4, lesson 2](slides/ddl-w4l2.pptx)
+* [Week 5, lesson 1](slides/ddl-w5l1.pptx)
+* [Week 5, lesson 2](slides/ddl-w5l2.pptx)
+* [Week 6, lesson 1](slides/ddl-w6l1.pptx)
+* [Week 6, lesson 2](slides/ddl-w6l2.pptx)
+* [Week 7, lesson 1](slides/ddl-w7l1.pptx)
+* [Week 7, lesson 2](slides/ddl-w7l2.pptx)
+* [Week 8, lesson 1](slides/ddl-w8l1.pptx)
+* [Week 8, lesson 2](slides/ddl-w8l2.pptx)
 
 ### Resources and tips
 *Feel free to [fork](https://help.github.com/articles/fork-a-repo/) this file and add more resources!*
@@ -63,6 +67,7 @@ If you are struggling with the mathematics of the course, check out:
 * Statistics and probability (https://www.khanacademy.org/math/statistics-probability)
 
 #### Data science and machine learning
+* Good introduction: Machine learning is fun (https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 
 #### Tips
 * Google, [Stack Overflow](https://stackoverflow.com/) and [Cross Validated](https://stats.stackexchange.com/) are your friends. It’s not a shame to Google even really basic concepts.
