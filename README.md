@@ -21,14 +21,13 @@
 ### Examples
 For every week there is a Jupyter Notebook containing examples relating to the subjects of that week
 * Week 1: understanding and exploring data
-** [Data cleaning](examples/week-4/lesson-1/data_cleaning.ipynb)
-** [Distributions](examples/week-4/lesson-1/distributions.ipynb)
-** [Hypothesis testing](examples/week-4/lesson-2/hypothesis_testing.ipynb)
-
+	+ [Data cleaning](examples/week-4/lesson-1/data_cleaning.ipynb)
+	+ [Distributions](examples/week-4/lesson-1/distributions.ipynb)
+	+ [Hypothesis testing](examples/week-4/lesson-2/hypothesis_testing.ipynb)
 * [Week 2: Linear regression, logistic regression]
-** [Correlation] (examples/week-5/lesson-1/correlation.ipynb)
-** [Linear regression] (examples/week-5/lesson-1/linear_regression.ipynb)
-** [Evaluating regression] (examples/week-5/lesson-1/evaluating_regression.ipynb)
+	+ [Correlation] (examples/week-5/lesson-1/correlation.ipynb)
+	+ [Linear regression] (examples/week-5/lesson-1/linear_regression.ipynb)
+	+ [Evaluating regression] (examples/week-5/lesson-1/evaluating_regression.ipynb)
 * [Week 3: supervised machine learning](examples/examples-3.ipynb)
 * [Week 4: unsupervised machine learning](examples/examples-4.ipynb)
 * [Week 5: text mining and cross-validation](examples/examples-5.ipynb)
