@@ -33,7 +33,7 @@ For every week there is a Jupyter Notebook containing examples relating to the s
 * [Week 5: text mining and cross-validation](examples/examples-5.ipynb)
 
 ### Exercises
-These are exercises you can make during the lesson to test your knowledge. You **don't** need to submit these with the final assignment. You can find the exercises in the slides.
+These are exercises you can make during the lesson to test your knowledge. You **don't** need to submit these with the final assignment. See the folder for the material. You can find the exercises in the slides.
 
 ### Slides
 These are PDF versions of the slides I give every week.
