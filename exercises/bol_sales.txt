@@ -1,0 +1,15 @@
+This is a fictional data set where you have to predict money spent on Bol.com
+The data set has been artificially constructed to include some relations between variables and be optimal for didactic purposes; however, because of this artificiality, many aspects of it will be unrealistic.
+
+There are 2 data sets, one with hold-out data (target removed) that you need to predict.
+
+Variables:
+
+id:			id
+gender:			gender
+income:			income in euro
+distance_center:	distance to a city center in km
+website_visits:		website visits to bol.com per year
+pages_viewed:		pages viewed on bol.com per year
+time_social_media:	time spent on social in minutes per day
+spent_bol:		amount spent on bol.com per year
