@@ -55,7 +55,7 @@ These are PDF versions of the slides I give every week.
 * [A more minimal cheatsheet](https://learnxinyminutes.com/docs/python3/)
 * [Datacamp Python basics](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics)
 * [Datacamp Python for data science](https://campus.datacamp.com/courses/intro-to-python-for-data-science/)
-* [Markdown cheatsheet (for text in Notebooks)(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+* [Markdown cheatsheet (for text in Notebooks)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 #### Mathematics
 Using tools from data science and machine learning would not make a lot of sense without some understanding of mathematics and statistics. However, the focus of the course is on the application of data science, rather than the mathematical foundation. If I use formulas, I will not focus on the technical aspects, but explain what they do conceptually. If you need to catch up on math, you can use these links to the [Khan Academy](https://www.khanacademy.org/):
