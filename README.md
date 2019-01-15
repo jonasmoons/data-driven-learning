@@ -68,7 +68,7 @@ Using tools from data science and machine learning would not make a lot of sense
 * [Basic probability theory](https://www.khanacademy.org/math/probability/probability-geometry#probability-basics)
 
 #### Data science and machine learning
-* Good introduction: Machine learning is fun (https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+* Good introduction: [Machine learning is fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 
 #### Tips
 * Google, [Stack Overflow](https://stackoverflow.com/) and [Cross Validated](https://stats.stackexchange.com/) are your friends. It’s not a shame to Google even really basic concepts.
