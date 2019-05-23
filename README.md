@@ -28,9 +28,8 @@ For every week there is a Jupyter Notebook containing examples relating to the s
 	+ [Correlation](examples/week-5/lesson-1/correlation.ipynb)
 	+ [Linear regression](examples/week-5/lesson-1/linear_regression.ipynb)
 	+ [Evaluating regression](examples/week-5/lesson-1/evaluating_regression.ipynb)
-* [Week 3: supervised machine learning](examples/examples-3.ipynb)
-* [Week 4: unsupervised machine learning](examples/examples-4.ipynb)
-* [Week 5: text mining and cross-validation](examples/examples-5.ipynb)
+
+For the following weeks, see the Examples folder.
 
 ### Exercises
 These are exercises you can make during the lesson to test your knowledge. You **don't** need to submit these with the final assignment. See the folder for the material. You can find the exercises in the slides.
