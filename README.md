@@ -3,10 +3,12 @@
 * On Canvas: student manual, assignments, overview of content per week, non-public data sets
 
 ## Table of contents
-* [Slides](#slides)
 * [Examples](#examples)
 * [Exercises](#exercises)
 * [Resources and tips](#resources-and-tips)
+
+### Examples
+Example code can be found in the Examples folder.
 
 ### Exercises
 These are exercises you can make during the lesson to test your knowledge. You **don't** need to submit these; however, you may post a link to your Notebook on Slack. I will use this to get a general sense of how things are going. See the folder for the material. You can find the exercises in the slides.
