@@ -1,16 +1,15 @@
 ## What is on Canvas and what is on GitHub?
 * On GitHub: example Notebooks, slides, extra material, exercises (in slides), public data sets for exercises
-* On Learn: student manual, assignments, overview of content per week, non-public data sets
+* On Canvas: student manual, assignments, overview of content per week, non-public data sets
 
 ## Table of contents
-* [Essentials](#essentials)
 * [Slides](#slides)
 * [Examples](#examples)
 * [Exercises](#exercises)
 * [Resources and tips](#resources-and-tips)
 
 ### Exercises
-These are exercises you can make during the lesson to test your knowledge. You **don't** need to submit these with the final assignment. See the folder for the material. You can find the exercises in the slides.
+These are exercises you can make during the lesson to test your knowledge. You **don't** need to submit these; however, you may post a link to your Notebook on Slack. I will use this to get a general sense of how things are going. See the folder for the material. You can find the exercises in the slides.
 
 ### Resources and tips
 
