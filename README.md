@@ -1,6 +1,6 @@
-## What is on Learn and what is on GitHub?
+## What is on Canvas and what is on GitHub?
 * On GitHub: example Notebooks, slides, extra material, exercises (in slides), public data sets for exercises
-* On Learn: student manual, final assignments, overview of content per week, slides (duplicate), non-public data sets, uploading exercises
+* On Learn: student manual, assignments, overview of content per week, non-public data sets
 
 ## Table of contents
 * [Essentials](#essentials)
@@ -18,34 +18,8 @@
 * [Cheatsheet](cheatsheet.md)
 * [Students and their Github accounts](students.md)
 
-### Examples
-For every week there is a Jupyter Notebook containing examples relating to the subjects of that week
-* Week 1: understanding and exploring data
-	+ [Data cleaning](examples/week-4/lesson-1/data_cleaning.ipynb)
-	+ [Distributions](examples/week-4/lesson-1/distributions.ipynb)
-	+ [Hypothesis testing](examples/week-4/lesson-2/hypothesis_testing.ipynb)
-* Week 2: linear regression, logistic regression
-	+ [Correlation](examples/week-5/lesson-1/correlation.ipynb)
-	+ [Linear regression](examples/week-5/lesson-1/linear_regression.ipynb)
-	+ [Evaluating regression](examples/week-5/lesson-1/evaluating_regression.ipynb)
-
-For the following weeks, see the Examples folder.
-
 ### Exercises
 These are exercises you can make during the lesson to test your knowledge. You **don't** need to submit these with the final assignment. See the folder for the material. You can find the exercises in the slides.
-
-### Slides
-These are PDF versions of the slides I give every week.
-* [Week 4, lesson 1](slides/ddl-w4l1.pptx)
-* [Week 4, lesson 2](slides/ddl-w4l2.pptx)
-* [Week 5, lesson 1](slides/ddl-w5l1.pptx)
-* [Week 5, lesson 2](slides/ddl-w5l2.pptx)
-* [Week 6, lesson 1](slides/ddl-w6l1.pptx)
-* [Week 6, lesson 2](slides/ddl-w6l2.pptx)
-* [Week 7, lesson 1](slides/ddl-w7l1.pptx)
-* [Week 7, lesson 2](slides/ddl-w7l2.pptx)
-* [Week 8, lesson 1](slides/ddl-w8l1.pptx)
-* [Week 8, lesson 2](slides/ddl-w8l2.pptx)
 
 ### Resources and tips
 
