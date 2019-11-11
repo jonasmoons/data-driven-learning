@@ -9,21 +9,13 @@
 * [Exercises](#exercises)
 * [Resources and tips](#resources-and-tips)
 
-## Essentials
-* **Teacher**: [Jonas Moons](mailto:jonas.moons@hu.nl)
-* [The course on learn.hu.nl](https://learn.hu.nl/course/view.php?id=802)
-* [The master on learn.hu.nl](https://learn.hu.nl/course/index.php?categoryid=93)
-* [Data-driven design Slack](https://datadrivendesign2018.slack.com/)
-* **Deadline**: **Monday January 28th before 12:00**: hand in the assignments as [a zipfile on learn.hu.nl](https://learn.hu.nl/mod/assign/view.php?id=65961).
-* [Cheatsheet](cheatsheet.md)
-* [Students and their Github accounts](students.md)
-
 ### Exercises
 These are exercises you can make during the lesson to test your knowledge. You **don't** need to submit these with the final assignment. See the folder for the material. You can find the exercises in the slides.
 
 ### Resources and tips
 
 #### Python
+* [Short cheatsheet](cheatsheet.md)
 * [Extensive Python cheatsheet with examples](https://github.com/wilfredinni/python-cheatsheet#python-basics)
 * [A more minimal cheatsheet](https://learnxinyminutes.com/docs/python3/)
 * [Datacamp Python basics](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics)
@@ -45,7 +37,7 @@ Using tools from data science and machine learning would not make a lot of sense
 
 #### Tips
 * Google, [Stack Overflow](https://stackoverflow.com/) and [Cross Validated](https://stats.stackexchange.com/) are your friends. It’s not a shame to Google even really basic concepts.
-* Your code should be properly commented (use `#`). Good commenting means you explain why you do something, not what you’re doing.
+* Your code should be properly commented (use `#`). Good commenting means you explain also why you do something, not just what you’re doing.
 * Visualize and explore your data. Get acquainted with your data. Explore cases that deviate from the trend (outliers).
 * Visualize your model predictions and [residuals](http://blog.minitab.com/blog/adventures-in-statistics-2/why-you-need-to-check-your-residual-plots-for-regression-analysis) to look for ways to improve your model. 
 * Properly label your graphs and axes.
