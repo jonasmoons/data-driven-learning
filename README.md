@@ -2,20 +2,12 @@
 * On GitHub: example Notebooks, slides, extra material, exercises (in slides), public data sets for exercises
 * On Canvas: student manual, assignments, overview of content per week, non-public data sets
 
-## Table of contents
-* [Examples](#examples)
-* [Exercises](#exercises)
-* [Resources and tips](#resources-and-tips)
+## Examples and exercises
+Example code can be found in the Examples folder. During class, exercises will be shown on the slides. The data sets for these exercises can be found in the corresponding example folder. These are exercises you can make during the lesson to test your knowledge. You **don't** need to submit these; however, you may post a link to your Notebook on Slack. I will use this to get a general sense of how things are going. See the folder for the material.
 
-### Examples
-Example code can be found in the Examples folder.
+## Resources and tips
 
-### Exercises
-These are exercises you can make during the lesson to test your knowledge. You **don't** need to submit these; however, you may post a link to your Notebook on Slack. I will use this to get a general sense of how things are going. See the folder for the material. You can find the exercises in the slides.
-
-### Resources and tips
-
-#### Python
+### Python
 * [Short cheatsheet](cheatsheet.md)
 * [Extensive Python cheatsheet with examples](https://github.com/wilfredinni/python-cheatsheet#python-basics)
 * [A more minimal cheatsheet](https://learnxinyminutes.com/docs/python3/)
@@ -23,7 +15,7 @@ These are exercises you can make during the lesson to test your knowledge. You *
 * [Datacamp Python for data science](https://campus.datacamp.com/courses/intro-to-python-for-data-science/)
 * [Markdown cheatsheet (for text in Notebooks)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-#### Mathematics
+### Mathematics
 Using tools from data science and machine learning would not make a lot of sense without some understanding of mathematics and statistics. However, the focus of the course is on the application of data science, rather than the mathematical foundation. If I use formulas, I will not focus on the technical aspects, but explain what they do conceptually. If you need to catch up on math, you can use these links to the [Khan Academy](https://www.khanacademy.org/):
 
 * [Basic algebra](https://www.khanacademy.org/math/algebra/introduction-to-algebra)
@@ -33,10 +25,10 @@ Using tools from data science and machine learning would not make a lot of sense
 * [Exponents](https://www.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals#pre-algebra-exponents) and [logarithms](https://www.khanacademy.org/math/algebra2/exponential-and-logarithmic-functions/introduction-to-logarithms/a/intro-to-logarithms)
 * [Basic probability theory](https://www.khanacademy.org/math/probability/probability-geometry#probability-basics)
 
-#### Data science and machine learning
+### Data science and machine learning
 * Good introduction: [Machine learning is fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 
-#### Tips
+### Tips
 * Google, [Stack Overflow](https://stackoverflow.com/) and [Cross Validated](https://stats.stackexchange.com/) are your friends. It’s not a shame to Google even really basic concepts.
 * Your code should be properly commented (use `#`). Good commenting means you explain also why you do something, not just what you’re doing.
 * Visualize and explore your data. Get acquainted with your data. Explore cases that deviate from the trend (outliers).
