@@ -1,4 +1,4 @@
-# This is the GitHub page for the course Fundamentals of Machine Learning at the University of Applied Sciences Utrecht
+# Fundamentals of Machine Learning (University of Applied Sciences Utrecht)
 
 ## What is on Canvas and what is on GitHub?
 * On GitHub: example Notebooks, slides, extra material, exercises (in slides), public data sets for exercises
