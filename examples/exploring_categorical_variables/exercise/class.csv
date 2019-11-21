@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 id,gender,instagram_followers,linkedin_con,texts_yesterday,phones_owned,apps_phone,os_phone,like_social,like_tech
 1,Male,248,154,100,8,100,Android,Disagree,Strongly agree
 3,Female,427,400,60,7,99,iOS,Agree,Agree
@@ -17,24 +16,4 @@ id,gender,instagram_followers,linkedin_con,texts_yesterday,phones_owned,apps_pho
 23,Male,0,0,30,5,29,iOS,Undecided,Agree
 25,Male,0,0,10,7,50,Android,Disagree,Agree
 26,Male,224,752,88,14,50,Android,Disagree,Strongly agree
-=======
-id,gender,instagram_followers,linkedin_con,texts_yesterday,phones_owned,apps_phone,os_phone,like_social,like_tech
-1,Male,248,154,100,8,100,Android,Disagree,Strongly agree
-3,Female,427,400,60,7,99,iOS,Agree,Agree
-4,Female,390,230,80,6,77,iOS,Agree,Agree
-6,Female,428,252,30,5,60,iOS,Agree,Agree
-7,Male,0,123,30,5,39,Android,Agree,Undecided
-9,Female,376,95,9,11,98,iOS,Agree,Agree
-10,Female,265,7,50,6,52,iOS,Agree,Agree
-11,Female,156,42,33,6,101,iOS,Agree,Agree
-13,Male,728,188,44,10,160,Android,Agree,Agree
-15,Female,120,115,30,6,150,Android,Agree,Agree
-17,Female,216,0,50,7,89,iOS,Undecided,Agree
-19,Male,0,75,20,4,43,iOS,Disagree,Agree
-20,Female,142,132,28,3,65,Android,Disagree,Undecided
-22,Female,181,191,100,7,89,Android,Undecided,Agree
-23,Male,0,0,30,5,29,iOS,Undecided,Agree
-25,Male,0,0,10,7,50,Android,Disagree,Agree
-26,Male,224,752,88,14,50,Android,Disagree,Strongly agree
->>>>>>> fdd269449e890b34ceefd196ee1eeab802f6c815
 27,Male,0,0,17,7,11,Android,Undecided,Agree
