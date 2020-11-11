@@ -1,0 +1,930 @@
+id,city,gender,age,hh_size,education,education_1,height,weight
+1,Bordeaux,Male,25-34,4,4,Master or doctorate,178,98
+2,Lille,Male,35-44,1,3,Bachelor,180,77
+3,Montpellier,Male,25-34,2,2,Master or doctorate,180,83
+4,Lyon,Male,<25,1,1,Bachelor,178,80
+5,Montpellier,Female,25-34,3,4,Bachelor,167,61
+6,Lille,Male,35-44,1,1,Vocational,170,63
+7,Montpellier,Male,25-34,2,2,Master or doctorate,175,75
+8,Bordeaux,Female,25-34,3,4,Master or doctorate,165,88
+9,Lille,Female,35-44,4,4,Vocational,172,69
+10,Lille,Female,25-34,2,2,Master or doctorate,165,93
+11,Bordeaux,Female,<25,2,2,Bachelor,169,61
+12,Bordeaux,Female,45-54,3,3,Vocational,162,60
+13,Lyon,Male,25-34,2,2,Master or doctorate,176,75
+14,Lille,Male,45-54,1,1,Master or doctorate,170,83
+15,Lille,Female,55-64,1,1,Vocational,158,50
+16,Lille,Male,25-34,2,2,Bachelor,182,68
+17,Lyon,Male,25-34,1,2,Bachelor,174,68
+18,Bordeaux,Male,35-44,4,4,Master or doctorate,170,83
+19,Lille,Male,25-34,3,4,Bachelor,179,60
+20,Lille,Female,55-64,2,2,Master or doctorate,160,54
+21,Bordeaux,Male,25-34,2,3,Bachelor,186,95
+22,Bordeaux,Female,45-54,4,4,Master or doctorate,170,73
+23,Bordeaux,Male,25-34,1,2,Master or doctorate,175,70
+24,Montpellier,Male,25-34,3,4,Bachelor,183,78
+25,Lille,Male,55-64,5,4,Master or doctorate,166,73
+26,Lille,Male,35-44,4,4,High school,185,140
+27,Lille,Female,55-64,1,1,Master or doctorate,175,72
+28,Lille,Female,35-44,3,3,Bachelor,162,58
+29,Lille,Female,35-44,1,1,Bachelor,160,52
+30,Lille,Female,<25,2,2,Vocational,157,60
+31,Lille,Male,25-34,2,2,High school,187,95
+32,Lille,Male,25-34,1,1,Master or doctorate,179,80
+33,Bordeaux,Female,<25,3,4,Bachelor,153,47
+34,Montpellier,Female,25-34,1,1,Bachelor,155,54
+35,Lille,Female,45-54,3,4,Bachelor,163,58
+36,Lille,Male,25-34,3,4,Bachelor,182,88
+37,Bordeaux,Male,<25,5,5,High school,180,87
+38,Lille,Female,35-44,3,4,Vocational,169,60
+39,Lille,Male,45-54,1,2,Master or doctorate,195,90
+40,Lille,Male,25-34,1,1,Bachelor,186,90
+41,Montpellier,Male,<25,1,1,Bachelor,178,90
+42,Lille,Male,25-34,2,2,Bachelor,180,72
+43,Bordeaux,Female,45-54,3,4,High school,160,73
+44,Lille,Female,35-44,4,4,Master or doctorate,156,700
+45,Lille,Male,25-34,2,2,Master or doctorate,187,73
+46,Lyon,Male,25-34,2,2,Bachelor,173,61
+47,Lille,Female,25-34,1,1,Master or doctorate,172,62
+48,Lille,Male,45-54,1,2,Master or doctorate,187,68
+49,Lille,Male,25-34,2,2,Bachelor,180,70
+50,Montpellier,Male,55-64,2,2,Bachelor,172,85
+51,Lille,Female,35-44,1,1,Primary,165,63
+52,Lyon,Female,35-44,4,4,High school,160,85
+53,Lille,Female,25-34,1,1,Master or doctorate,158,120
+54,Lille,Male,25-34,2,5,Master or doctorate,170,75
+55,Lyon,Male,45-54,1,1,High school,181,80
+56,Bordeaux,Male,65+,4,4,Vocational,173,69
+57,Bordeaux,Male,25-34,1,1,Bachelor,177,65
+58,Bordeaux,Female,55-64,1,1,Vocational,165,83
+59,Montpellier,Female,25-34,2,2,Bachelor,172,86
+60,Montpellier,Male,25-34,2,2,Master or doctorate,183,81
+61,Lille,Male,25-34,2,2,High school,171,96
+62,Lille,Female,45-54,1,1,Master or doctorate,170,133
+63,Montpellier,Male,<25,2,2,Master or doctorate,181,82
+64,Montpellier,Male,45-54,2,5,Bachelor,175,58
+65,Lille,Female,35-44,6,4,Master or doctorate,158,54
+66,Lille,Male,25-34,2,2,Bachelor,182,78
+67,Lyon,Female,25-34,3,4,High school,170,60
+68,Lyon,Female,35-44,5,4,Bachelor,150,45
+69,Bordeaux,Female,45-54,5,4,Bachelor,155,54
+70,Lyon,Male,<25,11,4,Master or doctorate,182,64
+71,Montpellier,Female,35-44,2,2,High school,164,45
+72,Lille,Female,25-34,2,2,Bachelor,178,69
+73,Montpellier,Male,25-34,1,1,Master or doctorate,183,86
+74,Montpellier,Male,<25,1,1,Master or doctorate,179,72
+75,Lille,Male,25-34,3,4,Bachelor,180,63
+76,Lille,Female,<25,3,4,Bachelor,170,58
+77,Lyon,Male,55-64,2,2,No degree,185,72
+78,Lille,Male,<25,4,5,Bachelor,183,84
+79,Lille,Male,25-34,1,1,Master or doctorate,183,89
+80,Lille,Male,25-34,3,4,High school,183,80
+81,Lyon,Female,45-54,4,4,Primary,158,53
+82,Lyon,Male,35-44,1,1,Bachelor,187,93
+83,Bordeaux,Female,55-64,1,1,High school,164,67
+84,Montpellier,Male,25-34,1,1,Master or doctorate,185,83
+85,Lille,Female,35-44,1,1,Bachelor,165,72
+86,Lille,Female,25-34,1,1,Master or doctorate,158,64
+87,Montpellier,Male,25-34,2,2,Master or doctorate,174,72
+88,Lille,Female,55-64,1,1,Bachelor,158,60
+89,Lyon,Female,<25,1,1,Bachelor,156,64
+90,Montpellier,Female,25-34,1,1,Bachelor,173,80
+91,Lille,Female,55-64,1,1,High school,158,72
+92,Lille,Male,25-34,1,1,Master or doctorate,175,80
+93,Montpellier,Male,25-34,1,1,Master or doctorate,175,72
+94,Lyon,Male,25-34,2,2,Master or doctorate,178,73
+95,Lille,Female,35-44,2,2,Vocational,167,55
+96,Bordeaux,Female,25-34,3,5,Master or doctorate,161,52
+97,Bordeaux,Female,35-44,5,4,High school,162,67
+98,Montpellier,Male,25-34,2,2,Master or doctorate,185,76
+99,Lille,Female,25-34,2,2,Bachelor,163,70
+100,Lille,Male,25-34,2,2,Master or doctorate,182,68
+101,Lille,Male,25-34,1,1,Master or doctorate,183,86
+102,Lille,Female,<25,5,4,Bachelor,162,52
+103,Bordeaux,Female,25-34,2,2,Bachelor,157,37
+104,Lyon,Male,35-44,4,4,Master or doctorate,190,72
+105,Montpellier,Male,25-34,1,1,Master or doctorate,190,76
+106,Lyon,Male,25-34,4,4,Master or doctorate,183,97
+107,Lille,Female,25-34,1,1,High school,163,67
+108,Lille,Male,45-54,1,2,Bachelor,170,68
+109,Montpellier,Female,35-44,3,3,Vocational,160,96
+110,Bordeaux,Female,45-54,4,4,Bachelor,157,69
+111,Lille,Male,25-34,1,2,Bachelor,181,69
+112,Lille,Male,25-34,4,4,Master or doctorate,176,55
+113,Lille,Male,25-34,2,2,Bachelor,186,76
+114,Lyon,Male,45-54,4,4,Master or doctorate,179,83
+115,Lyon,Male,25-34,3,4,Master or doctorate,173,95
+116,Bordeaux,Male,<25,2,2,High school,171,86
+117,Lille,Male,45-54,1,1,Vocational,178,78
+118,Lille,Female,45-54,5,4,Bachelor,157,45
+119,Bordeaux,Female,<25,4,4,Bachelor,156,48
+120,Lyon,Female,<25,1,1,Master or doctorate,162,60
+121,Lille,Female,45-54,5,4,Bachelor,163,65
+122,Lille,Male,45-54,4,4,Master or doctorate,172,89
+123,Bordeaux,Female,25-34,2,2,Bachelor,164,45
+124,Lille,Female,25-34,1,1,Master or doctorate,162,55
+125,Lille,Female,<25,1,1,Master or doctorate,168,55
+126,Lyon,Female,35-44,5,4,Master or doctorate,165,64
+127,Lille,Female,25-34,4,4,Master or doctorate,175,71
+128,Lille,Female,25-34,1,1,Master or doctorate,173,60
+129,Montpellier,Male,25-34,2,2,High school,179,87
+130,Lille,Female,45-54,1,1,High school,163,72
+131,Lille,Male,35-44,2,2,Master or doctorate,170,56
+132,Montpellier,Male,45-54,1,1,Master or doctorate,178,105
+133,Lille,Female,25-34,1,1,High school,162,51
+134,Bordeaux,Female,25-34,2,2,Master or doctorate,167,58
+135,Lille,Female,25-34,3,4,Bachelor,169,56
+136,Lille,Male,25-34,2,2,Master or doctorate,178,72
+137,Montpellier,Female,45-54,1,1,Bachelor,169,93
+138,Bordeaux,Male,<25,1,1,High school,176,65
+139,Lille,Female,25-34,2,2,Vocational,167,72
+140,Montpellier,Male,25-34,1,1,Master or doctorate,174,65
+141,Montpellier,Male,55-64,2,2,Master or doctorate,168,60
+142,Bordeaux,Male,25-34,2,2,Master or doctorate,183,70
+143,Lille,Male,45-54,3,4,Primary,170,83
+144,Montpellier,Female,35-44,4,4,Master or doctorate,166,73
+145,Lyon,Female,25-34,1,1,Master or doctorate,174,60
+146,Lille,Male,45-54,2,2,Vocational,170,67
+147,Lyon,Female,45-54,3,4,Master or doctorate,170,75
+148,Lille,Female,45-54,3,4,Master or doctorate,169,71
+149,Lille,Male,25-34,3,4,Master or doctorate,183,84
+150,Lyon,Male,35-44,3,3,Bachelor,175,78
+151,Lille,Female,25-34,3,4,Master or doctorate,160,50
+152,Montpellier,Male,25-34,1,1,Master or doctorate,180,59
+153,Lyon,Male,25-34,2,2,Master or doctorate,175,80
+154,Montpellier,Female,45-54,1,1,Master or doctorate,164,89
+155,Montpellier,Female,25-34,2,2,High school,180,98
+156,Lille,Male,25-34,2,2,Master or doctorate,172,106
+157,Bordeaux,Male,65+,4,4,Bachelor,175,65
+158,Lille,Female,65+,2,2,Bachelor,164,60
+159,Lille,Female,35-44,3,4,High school,158,54
+160,Bordeaux,Female,25-34,4,4,Master or doctorate,170,79
+161,Lille,Male,25-34,2,2,Bachelor,175,78
+162,Lille,Female,25-34,2,2,Master or doctorate,165,53
+163,Lille,Male,45-54,3,4,Master or doctorate,184,86
+164,Lyon,Male,25-34,5,5,Master or doctorate,178,64
+165,Lille,Male,45-54,4,4,Bachelor,181,80
+166,Lille,Female,25-34,1,1,Master or doctorate,163,54
+167,Lille,Female,45-54,4,4,Bachelor,161,64
+168,Lille,Male,25-34,2,2,High school,180,76
+169,Lyon,Female,25-34,2,2,Master or doctorate,173,65
+170,Lille,Female,25-34,4,4,Bachelor,158,85
+171,Bordeaux,Female,25-34,1,1,Master or doctorate,158,47
+172,Montpellier,Female,45-54,3,4,Master or doctorate,158,59
+173,Bordeaux,Male,25-34,2,2,High school,172,95
+174,Lille,Female,25-34,2,2,High school,170,72
+175,Lyon,Female,35-44,5,4,Bachelor,160,66
+176,Bordeaux,Male,35-44,4,4,Bachelor,178,88
+177,Lille,Male,25-34,4,4,Bachelor,185,92
+178,Bordeaux,Male,25-34,2,2,Bachelor,190,77
+179,Lyon,Female,<25,3,4,Bachelor,162,62
+180,Lille,Male,25-34,1,1,Master or doctorate,180,92
+181,Lille,Female,25-34,2,2,Bachelor,163,55
+182,Lille,Female,35-44,4,4,Bachelor,163,46
+183,Lyon,Female,35-44,2,2,Master or doctorate,167,68
+184,Lille,Female,25-34,1,1,Bachelor,162,49
+185,Lille,Female,45-54,5,4,High school,160,69
+186,Lille,Female,25-34,2,2,Master or doctorate,160,60
+187,Montpellier,Male,45-54,2,2,Bachelor,175,96
+188,Lille,Male,25-34,2,2,Master or doctorate,174,64
+189,Lyon,Female,35-44,2,2,Bachelor,157,71
+190,Lille,Male,<25,1,4,Bachelor,164,61
+191,Lyon,Male,25-34,3,4,Master or doctorate,186,76
+192,Lille,Male,25-34,2,2,Master or doctorate,176,78
+193,Montpellier,Male,<25,5,3,Master or doctorate,175,73
+194,Lille,Female,45-54,6,4,Bachelor,166,55
+195,Lille,Female,55-64,1,1,Master or doctorate,157,56
+196,Lille,Male,25-34,2,2,Master or doctorate,176,71
+197,Lille,Female,25-34,2,2,Master or doctorate,153,66
+198,Lille,Female,25-34,2,2,Master or doctorate,165,62
+199,Lille,Female,25-34,1,1,Master or doctorate,162,45
+200,Bordeaux,Female,25-34,2,2,Master or doctorate,173,64
+201,Bordeaux,Female,25-34,1,1,Master or doctorate,160,50
+202,Montpellier,Female,45-54,4,4,Master or doctorate,165,64
+203,Lille,Female,<25,5,4,Bachelor,165,63
+204,Lille,Male,45-54,2,2,Master or doctorate,175,66
+205,Lille,Male,35-44,1,1,Vocational,173,94
+206,Lille,Female,<25,2,2,High school,163,74
+207,Lille,Female,35-44,4,4,Bachelor,158,68
+208,Lille,Female,35-44,4,4,Master or doctorate,160,56
+209,Lyon,Male,45-54,2,2,Master or doctorate,176,74
+210,Lyon,Female,45-54,2,2,Master or doctorate,165,74
+211,Lille,Female,25-34,1,1,Bachelor,173,79
+212,Lille,Male,25-34,3,4,High school,167,74
+213,Bordeaux,Female,35-44,5,4,Bachelor,195,79
+214,Lille,Female,25-34,2,4,Master or doctorate,168,62
+215,Lille,Male,45-54,4,4,Master or doctorate,170,71
+216,Lyon,Female,25-34,1,1,Master or doctorate,170,63
+217,Lyon,Female,25-34,2,2,Master or doctorate,161,58
+218,Bordeaux,Female,25-34,1,1,Master or doctorate,160,65
+219,Lille,Female,35-44,5,4,High school,167,64
+220,Lille,Male,25-34,2,2,Master or doctorate,172,80
+221,Lille,Female,25-34,1,1,Bachelor,167,74
+222,Lille,Male,<25,1,1,Master or doctorate,176,62
+223,Lille,Female,45-54,2,2,Master or doctorate,165,68
+224,Lyon,Male,35-44,4,4,Master or doctorate,180,88
+225,Lille,Female,45-54,3,3,Master or doctorate,165,60
+226,Montpellier,Female,35-44,3,3,Bachelor,170,55
+227,Montpellier,Female,<25,1,1,Bachelor,166,80
+228,Lyon,Male,25-34,2,2,Master or doctorate,176,67
+229,Montpellier,Female,25-34,1,1,Master or doctorate,182,69
+230,Lille,Female,25-34,1,1,Bachelor,175,71
+231,Lille,Female,25-34,2,2,Bachelor,177,65
+232,Montpellier,Male,25-34,3,4,Master or doctorate,176,78
+233,Lyon,Male,25-34,2,2,Master or doctorate,178,75
+234,Lille,Female,25-34,2,2,Bachelor,161,54
+235,Lille,Female,45-54,1,1,Master or doctorate,172,66
+236,Lille,Female,25-34,2,2,Primary,169,54
+237,Lille,Female,25-34,1,1,Bachelor,167,76
+238,Lille,Male,25-34,2,2,Master or doctorate,160,50
+239,Lille,Male,25-34,2,2,Bachelor,177,74
+240,Lille,Female,25-34,1,1,Bachelor,160,65
+241,Lille,Female,25-34,1,1,Master or doctorate,158,54
+242,Lille,Female,25-34,3,4,High school,160,57
+243,Bordeaux,Male,45-54,3,4,Bachelor,172,85
+244,Lyon,Female,25-34,1,1,Bachelor,170,68
+245,Lille,Male,55-64,2,2,Master or doctorate,175,72
+246,Lille,Female,25-34,2,2,Bachelor,171,64
+247,Bordeaux,Female,<25,3,4,Bachelor,169,49
+248,Lyon,Female,35-44,4,4,Master or doctorate,165,71
+249,Lille,Female,35-44,1,1,Master or doctorate,170,64
+250,Lille,Male,25-34,2,2,Master or doctorate,180,87
+251,Lyon,Male,<25,1,1,Master or doctorate,171,64
+252,Montpellier,Male,25-34,2,2,High school,179,80
+253,Lille,Male,35-44,2,5,Bachelor,179,94
+254,Lille,Male,35-44,4,4,Bachelor,176,66
+255,Lyon,Female,45-54,3,4,Bachelor,160,57
+256,Lyon,Female,25-34,2,2,Bachelor,164,65
+257,Lille,Male,<25,4,3,Bachelor,174,74
+258,Lille,Male,25-34,4,4,Bachelor,183,149
+259,Lille,Male,35-44,1,1,Bachelor,185,72
+260,Montpellier,Female,35-44,4,4,Vocational,173,65
+261,Montpellier,Female,55-64,2,2,Bachelor,175,73
+262,Lille,Male,25-34,1,1,Master or doctorate,,53
+263,Montpellier,Male,25-34,3,4,Bachelor,170,59
+264,Montpellier,Male,25-34,2,2,Master or doctorate,181,83
+265,Lille,Male,35-44,1,1,Master or doctorate,192,90
+266,Lille,Female,45-54,5,4,Master or doctorate,165,55
+267,Lyon,Female,25-34,1,2,Bachelor,173,58
+268,Montpellier,Female,45-54,2,3,Master or doctorate,158,54
+269,Lille,Female,25-34,2,2,High school,158,45
+270,Bordeaux,Male,45-54,4,4,Master or doctorate,184,73
+271,Bordeaux,Male,25-34,1,1,Bachelor,170,68
+272,Montpellier,Male,45-54,3,4,High school,167,89
+273,Bordeaux,Male,25-34,3,4,Master or doctorate,187,110
+274,Lyon,Male,25-34,1,2,Bachelor,180,76
+275,Lyon,Female,35-44,4,4,Primary,160,66
+276,Lille,Female,45-54,1,1,High school,168,78
+277,Montpellier,Male,<25,2,2,Bachelor,186,90
+278,Montpellier,Female,45-54,3,4,Master or doctorate,165,65
+279,Lille,Male,45-54,4,4,Master or doctorate,172,85
+280,Lille,Female,45-54,1,1,High school,170,62
+281,Lille,Female,55-64,2,2,Primary,157,56
+282,Lille,Female,35-44,1,1,High school,161,56
+283,Montpellier,Male,45-54,5,4,Master or doctorate,185,86
+284,Lyon,Male,25-34,4,2,Master or doctorate,173,79
+285,Lille,Female,45-54,1,1,Bachelor,169,87
+286,Lille,Female,45-54,2,2,High school,158,55
+287,Lille,Female,<25,1,2,Bachelor,175,63
+288,Lille,Male,25-34,1,1,Bachelor,182,63
+289,Montpellier,Female,<25,1,1,Bachelor,168,64
+290,Bordeaux,Male,25-34,1,1,Bachelor,185,75
+291,Lyon,Male,<25,2,2,Bachelor,186,110
+292,Lyon,Female,25-34,1,1,Master or doctorate,165,55
+293,Lyon,Female,55-64,4,4,Bachelor,160,75
+294,Montpellier,Female,25-34,3,5,Bachelor,164,67
+295,Bordeaux,Male,25-34,1,2,Master or doctorate,188,95
+296,Lille,Female,25-34,3,4,Bachelor,161,59
+297,Bordeaux,Male,<25,2,2,Master or doctorate,173,71
+298,Lyon,Female,35-44,6,4,High school,169,79
+299,Montpellier,Male,45-54,5,4,Bachelor,176,76
+300,Lille,Female,45-54,3,4,Bachelor,162,61
+301,Bordeaux,Male,35-44,3,4,Vocational,184,97
+302,Lyon,Female,25-34,2,5,Bachelor,162,55
+303,Bordeaux,Female,45-54,5,4,Master or doctorate,168,90
+304,Lille,Female,25-34,1,1,High school,145,51
+305,Lille,Male,25-34,3,4,Master or doctorate,180,80
+306,Lille,Male,35-44,4,4,Master or doctorate,178,92
+307,Lille,Male,25-34,2,2,Bachelor,167,74
+308,Lille,Female,35-44,5,4,Master or doctorate,159,54
+309,Lyon,Male,25-34,2,2,Bachelor,164,53
+310,Lille,Female,35-44,1,1,Master or doctorate,157,62
+311,Bordeaux,Female,55-64,2,2,Bachelor,158,69
+312,Lille,Male,35-44,5,4,High school,180,88
+313,Montpellier,Male,25-34,5,4,Master or doctorate,176,86
+314,Lille,Female,25-34,2,2,Master or doctorate,168,49
+315,Lille,Male,25-34,3,3,Bachelor,173,78
+316,Bordeaux,Male,35-44,2,2,High school,176,92
+317,Lille,Female,35-44,3,4,Bachelor,160,57
+318,Lille,Male,25-34,1,1,Master or doctorate,175,95
+319,Lille,Male,45-54,1,2,Bachelor,171,74
+320,Lille,Male,25-34,3,4,Bachelor,172,70
+321,Lyon,Male,25-34,2,2,Master or doctorate,192,99
+322,Lille,Female,45-54,4,4,Vocational,170,68
+323,Lille,Female,25-34,3,3,Master or doctorate,161,68
+324,Lyon,Female,45-54,4,4,Bachelor,165,140
+325,Lyon,Female,<25,2,2,Vocational,168,59
+326,Lille,Male,25-34,3,4,Bachelor,171,86
+327,Bordeaux,Male,<25,2,2,Bachelor,178,72
+328,Lille,Male,25-34,1,1,Master or doctorate,181,72
+329,Lille,Male,25-34,2,2,Bachelor,188,90
+330,Montpellier,Female,45-54,2,2,Vocational,165,68
+331,Lille,Female,<25,2,3,Bachelor,152,96
+332,Lyon,Female,35-44,4,4,Bachelor,160,53
+333,Bordeaux,Male,45-54,1,1,High school,180,98
+334,Lille,Female,25-34,2,2,Bachelor,175,69
+335,Lille,Male,25-34,3,4,Master or doctorate,186,87
+336,Lille,Female,<25,2,2,Master or doctorate,165,54
+337,Bordeaux,Male,<25,1,1,Master or doctorate,183,90
+338,Lille,Male,45-54,1,1,Bachelor,178,72
+339,Lille,Female,25-34,2,2,Master or doctorate,182,74
+340,Bordeaux,Male,25-34,2,2,Bachelor,180,65
+341,Bordeaux,Male,25-34,1,1,Bachelor,172,79
+342,Bordeaux,Male,25-34,1,2,Primary,174,63
+343,Bordeaux,Male,25-34,4,4,Bachelor,183,75
+344,Lille,Female,25-34,2,2,Master or doctorate,165,59
+345,Lille,Female,45-54,1,1,Master or doctorate,172,95
+346,Lille,Male,35-44,4,4,Master or doctorate,181,95
+347,Lille,Male,25-34,2,5,Master or doctorate,180,87
+348,Lille,Male,<25,1,1,Bachelor,178,87
+349,Lille,Female,25-34,1,1,Bachelor,168,74
+350,Lille,Male,25-34,2,2,Master or doctorate,168,73
+351,Montpellier,Female,25-34,2,2,Master or doctorate,165,57
+352,Lille,Female,25-34,2,2,Bachelor,177,63
+353,Lille,Male,25-34,1,1,Master or doctorate,183,86
+354,Lille,Female,45-54,4,4,Bachelor,157,64
+355,Lyon,Male,25-34,3,4,Master or doctorate,186,72
+356,Lille,Male,25-34,2,2,Bachelor,170,64
+357,Lille,Female,<25,2,5,Bachelor,160,57
+358,Lille,Female,45-54,3,4,High school,168,73
+359,Bordeaux,Male,45-54,1,1,Master or doctorate,172,95
+360,Montpellier,Female,45-54,2,4,Bachelor,167,67
+361,Lille,Female,<25,2,2,Master or doctorate,167,61
+362,Bordeaux,Male,25-34,2,2,Master or doctorate,175,70
+363,Lille,Female,35-44,3,4,Bachelor,162,90
+364,Lille,Female,35-44,3,4,Master or doctorate,158,58
+365,Bordeaux,Female,25-34,2,2,Bachelor,168,68
+366,Lyon,Female,35-44,4,4,Bachelor,173,106
+367,Lille,Male,65+,3,4,Master or doctorate,173,74
+368,Montpellier,Male,25-34,2,2,Bachelor,170,58
+369,Lille,Female,25-34,2,2,Master or doctorate,159,76
+370,Montpellier,Male,25-34,1,1,Master or doctorate,178,72
+371,Montpellier,Male,55-64,3,4,Master or doctorate,166,61
+372,Lille,Female,45-54,5,4,Master or doctorate,161,75
+373,Montpellier,Female,<25,1,1,High school,166,61
+374,Lyon,Female,35-44,5,4,Master or doctorate,160,58
+375,Lille,Male,25-34,1,1,Bachelor,174,80
+376,Lille,Male,35-44,2,2,Bachelor,180,72
+377,Lille,Female,35-44,3,4,Bachelor,153,47
+378,Lille,Female,45-54,5,4,Bachelor,165,89
+379,Lille,Male,25-34,2,2,Master or doctorate,170,70
+380,Montpellier,Male,35-44,4,4,Bachelor,186,93
+381,Lille,Male,<25,4,4,Bachelor,170,75
+382,Lille,Male,35-44,4,4,Bachelor,186,83
+383,Lille,Male,25-34,2,2,Bachelor,169,97
+384,Lille,Male,35-44,4,4,Bachelor,183,86
+385,Lille,Female,25-34,1,1,Master or doctorate,160,56
+386,Lille,Female,25-34,1,1,High school,166,57
+387,Lille,Male,35-44,1,1,Master or doctorate,187,93
+388,Lille,Female,25-34,2,2,Bachelor,158,45
+389,Lille,Male,35-44,3,4,Master or doctorate,172,61
+390,Lille,Female,25-34,3,4,Vocational,156,6
+391,Bordeaux,Male,35-44,2,2,High school,165,140
+392,Lille,Female,45-54,3,4,High school,169,79
+393,Lyon,Male,35-44,3,4,Bachelor,175,72
+394,Montpellier,Male,25-34,1,1,Master or doctorate,178,95
+395,Montpellier,Female,25-34,2,5,Bachelor,172,100
+396,Lyon,Male,25-34,2,2,Bachelor,180,82
+397,Lyon,Male,45-54,4,4,High school,175,65
+398,Lyon,Male,35-44,2,2,Master or doctorate,168,55
+399,Lyon,Male,35-44,5,4,Master or doctorate,173,66
+400,Lille,Female,25-34,2,2,Bachelor,160,55
+401,Lille,Male,25-34,2,2,Master or doctorate,172,78
+402,Lille,Male,25-34,2,2,Master or doctorate,173,82
+403,Montpellier,Male,35-44,2,2,Master or doctorate,178,84
+404,Montpellier,Female,25-34,2,2,Master or doctorate,158,54
+405,Montpellier,Female,<25,1,1,Master or doctorate,172,80
+406,Bordeaux,Male,65+,2,2,Bachelor,172,65
+407,Lille,Male,35-44,4,4,Master or doctorate,165,65
+408,Lille,Female,25-34,3,4,Bachelor,166,52
+409,Lille,Female,25-34,3,5,High school,162,62
+410,Lyon,Male,25-34,5,4,High school,179,76
+411,Bordeaux,Male,<25,5,5,Bachelor,180,86
+412,Lille,Female,25-34,2,2,Bachelor,163,60
+413,Montpellier,Male,25-34,3,5,Master or doctorate,188,88
+414,Lille,Male,25-34,2,2,Bachelor,177,95
+415,Bordeaux,Female,35-44,4,4,High school,156,54
+416,Montpellier,Female,35-44,3,4,Bachelor,157,54
+417,Lyon,Male,25-34,1,1,Master or doctorate,182,88
+418,Montpellier,Female,<25,2,2,Bachelor,180,74
+419,Lille,Male,<25,3,4,High school,183,80
+420,Lille,Male,25-34,1,2,Master or doctorate,187,90
+421,Bordeaux,Male,45-54,2,2,High school,172,85
+422,Lille,Female,35-44,3,4,Bachelor,166,61
+423,Montpellier,Male,25-34,2,2,Master or doctorate,173,69
+424,Lille,Female,25-34,2,2,Bachelor,163,66
+425,Lyon,Female,35-44,4,4,Bachelor,169,68
+426,Lille,Female,<25,2,2,Master or doctorate,171,58
+427,Bordeaux,Male,<25,2,3,Bachelor,174,87
+428,Lille,Female,<25,4,4,High school,173,66
+429,Bordeaux,Female,<25,2,2,Bachelor,163,80
+430,Lyon,Male,35-44,4,4,Master or doctorate,175,95
+431,Lyon,Female,55-64,4,4,Master or doctorate,157,69
+432,Montpellier,Male,25-34,1,1,Bachelor,183,88
+433,Lyon,Male,25-34,2,2,Master or doctorate,184,77
+434,Lille,Female,35-44,3,4,Bachelor,172,55
+435,Montpellier,Male,35-44,2,2,Bachelor,181,76
+436,Lille,Female,<25,2,2,Bachelor,162,89
+437,Lille,Male,55-64,5,4,Master or doctorate,175,88
+438,Lille,Male,25-34,3,5,Master or doctorate,185,95
+439,Bordeaux,Male,25-34,2,2,Vocational,185,73
+440,Lille,Male,25-34,2,2,Bachelor,183,81
+441,Montpellier,Male,45-54,1,1,Master or doctorate,176,89
+442,Lyon,Male,25-34,3,4,Bachelor,172,88
+443,Lille,Female,25-34,1,1,Bachelor,160,49
+444,Bordeaux,Male,25-34,2,2,Master or doctorate,175,73
+445,Lille,Female,35-44,2,2,Bachelor,166,68
+446,Bordeaux,Male,25-34,2,2,Bachelor,177,74
+447,Montpellier,Female,35-44,4,4,Bachelor,157,54
+448,Bordeaux,Male,45-54,1,1,Bachelor,190,80
+449,Montpellier,Female,25-34,2,2,Master or doctorate,161,54
+450,Lyon,Female,25-34,1,1,Bachelor,165,55
+451,Lille,Female,<25,2,2,Bachelor,180,68
+452,Lille,Female,25-34,3,4,Bachelor,165,78
+453,Bordeaux,Female,55-64,1,1,High school,164,53
+454,Lyon,Male,35-44,3,4,Master or doctorate,190,72
+455,Lille,Male,35-44,5,4,Master or doctorate,178,92
+456,Lille,Male,25-34,2,2,Bachelor,175,82
+457,Lille,Male,25-34,4,4,Master or doctorate,175,70
+458,Lille,Female,55-64,1,1,High school,172,102
+459,Lille,Female,35-44,3,4,Master or doctorate,165,68
+460,Lyon,Male,<25,1,1,Master or doctorate,173,65
+461,Lille,Male,35-44,2,2,Bachelor,171,82
+462,Montpellier,Male,35-44,4,5,Master or doctorate,182,77
+463,Lille,Female,25-34,2,2,Master or doctorate,163,52
+464,Lille,Female,35-44,2,2,High school,164,72
+465,Lyon,Female,25-34,4,4,Master or doctorate,168,79
+466,Bordeaux,Male,35-44,2,2,Bachelor,187,81
+467,Bordeaux,Male,25-34,2,2,Master or doctorate,183,86
+468,Lyon,Female,25-34,2,2,Master or doctorate,170,50
+469,Lyon,Male,25-34,1,1,Master or doctorate,172,60
+470,Bordeaux,Male,25-34,2,2,Bachelor,165,74
+471,Lille,Male,35-44,1,1,Vocational,173,63
+472,Lille,Female,45-54,2,2,Bachelor,155,60
+473,Montpellier,Female,35-44,1,1,High school,170,73
+474,Montpellier,Female,45-54,3,4,Master or doctorate,169,90
+475,Bordeaux,Female,25-34,2,2,Bachelor,165,71
+476,Lille,Male,25-34,2,2,Master or doctorate,178,64
+477,Lille,Male,25-34,2,2,Master or doctorate,172,78
+478,Lyon,Male,<25,2,2,Bachelor,177,85
+479,Lille,Male,35-44,5,4,Master or doctorate,190,72
+480,Lille,Male,45-54,1,1,Master or doctorate,182,83
+481,Lille,Female,25-34,1,1,Master or doctorate,160,60
+482,Lille,Female,55-64,2,2,High school,161,69
+483,Lille,Female,55-64,2,2,Vocational,165,77
+484,Lille,Male,55-64,3,4,Bachelor,176,71
+485,Montpellier,Male,35-44,1,2,Master or doctorate,172,85
+486,Lille,Female,25-34,2,5,Bachelor,160,58
+487,Montpellier,Female,35-44,1,1,Master or doctorate,167,133
+488,Lille,Male,25-34,2,4,Master or doctorate,183,85
+489,Lyon,Female,<25,2,2,Master or doctorate,160,51
+490,Lille,Female,25-34,3,4,High school,172,66
+491,Lille,Female,25-34,2,2,Master or doctorate,162,49
+492,Lille,Female,<25,2,2,Bachelor,163,52
+493,Montpellier,Male,45-54,1,2,Master or doctorate,174,82
+494,Lille,Male,<25,1,1,Bachelor,174,60
+495,Lille,Female,25-34,1,1,Bachelor,174,66
+496,Lyon,Female,35-44,5,4,Bachelor,169,55
+497,Bordeaux,Male,55-64,3,4,Master or doctorate,170,65
+498,Lille,Male,25-34,2,2,Bachelor,178,78
+499,Lyon,Male,25-34,1,1,Master or doctorate,175,70
+500,Bordeaux,Male,55-64,4,4,Master or doctorate,174,85
+501,Lille,Male,25-34,2,2,High school,173,74
+502,Lyon,Female,<25,2,2,Master or doctorate,168,56
+503,Lille,Male,25-34,2,2,Bachelor,178,82
+504,Lille,Male,45-54,2,3,Master or doctorate,183,75
+505,Lyon,Female,<25,2,2,Bachelor,164,65
+506,Lille,Male,45-54,3,4,Master or doctorate,182,73
+507,Bordeaux,Female,45-54,3,3,Master or doctorate,170,68
+508,Lille,Female,<25,2,5,Master or doctorate,177,73
+509,Lille,Male,25-34,2,2,Vocational,170,70
+510,Lille,Female,45-54,3,4,Master or doctorate,169,55
+511,Lille,Male,45-54,1,1,Bachelor,180,69
+512,Lille,Female,25-34,2,5,High school,165,62
+513,Lyon,Male,45-54,3,4,Bachelor,171,69
+514,Lille,Female,45-54,4,4,High school,155,50
+515,Lille,Male,25-34,2,2,Bachelor,175,68
+516,Lyon,Female,55-64,1,1,Bachelor,172,65
+517,Bordeaux,Female,35-44,3,4,Master or doctorate,167,52
+518,Lille,Male,45-54,4,4,Master or doctorate,182,73
+519,Bordeaux,Female,35-44,3,3,Bachelor,162,62
+520,Lille,Female,35-44,2,2,Bachelor,178,69
+521,Lille,Female,55-64,1,1,Master or doctorate,175,62
+522,Lille,Male,25-34,2,2,Primary,170,75
+523,Lille,Female,35-44,1,1,Master or doctorate,170,60
+524,Lille,Male,<25,3,3,Master or doctorate,180,94
+525,Lille,Male,25-34,1,1,Master or doctorate,182,80
+526,Lille,Female,25-34,1,1,Master or doctorate,160,57
+527,Lille,Female,<25,2,3,Bachelor,163,65
+528,Montpellier,Male,<25,2,3,Master or doctorate,184,73
+529,Lille,Female,45-54,2,4,Bachelor,163,54
+530,Lille,Male,<25,2,2,Bachelor,185,70
+531,Lille,Male,<25,4,5,High school,175,78
+532,Bordeaux,Female,25-34,1,1,Master or doctorate,170,56
+533,Lille,Female,25-34,2,2,Bachelor,165,60
+534,Lille,Female,<25,2,2,High school,163,52
+535,Lille,Male,45-54,3,4,Master or doctorate,176,65
+536,Lille,Male,45-54,2,2,Bachelor,180,86
+537,Lille,Male,25-34,1,1,Bachelor,186,84
+538,Lyon,Female,45-54,4,4,Master or doctorate,173,86
+539,Lyon,Male,25-34,2,2,Master or doctorate,178,84
+540,Lille,Female,25-34,6,4,High school,172,66
+541,Lille,Female,35-44,3,4,Bachelor,163,62
+542,Lille,Female,45-54,2,2,High school,161,55
+543,Lyon,Female,25-34,2,2,Master or doctorate,164,56
+544,Montpellier,Male,35-44,2,2,Master or doctorate,172,70
+545,Montpellier,Male,25-34,1,1,Master or doctorate,182,83
+546,Lille,Male,35-44,1,1,Master or doctorate,190,84
+547,Lille,Male,<25,1,1,Bachelor,173,68
+548,Lille,Female,25-34,2,2,Master or doctorate,160,58
+549,Lille,Female,25-34,2,2,Master or doctorate,170,55
+550,Lille,Male,45-54,1,1,Bachelor,193,155
+551,Lille,Female,25-34,4,4,Bachelor,162,64
+552,Bordeaux,Male,35-44,3,4,Bachelor,165,83
+553,Lille,Male,55-64,4,4,Master or doctorate,178,77
+554,Lille,Male,45-54,4,4,Bachelor,170,89
+555,Lille,Male,25-34,2,2,Master or doctorate,173,78
+556,Lille,Female,35-44,5,4,Bachelor,166,61
+557,Lille,Male,25-34,1,1,Master or doctorate,180,90
+558,Lille,Male,35-44,2,2,Bachelor,184,69
+559,Montpellier,Male,45-54,2,2,Master or doctorate,180,64
+560,Lille,Female,45-54,4,4,Bachelor,157,54
+561,Lille,Male,25-34,3,4,Master or doctorate,175,72
+562,Lyon,Male,25-34,1,1,Master or doctorate,185,77
+563,Lyon,Male,25-34,3,4,Master or doctorate,169,63
+564,Montpellier,Male,25-34,2,2,Master or doctorate,184,59
+565,Lyon,Female,35-44,5,4,Master or doctorate,156,55
+566,Lille,Male,25-34,1,1,Bachelor,174,60
+567,Lyon,Male,25-34,4,4,Master or doctorate,185,86
+568,Lille,Female,45-54,1,1,Bachelor,168,79
+569,Bordeaux,Female,35-44,3,3,Master or doctorate,173,84
+570,Lille,Male,35-44,2,2,Bachelor,185,74
+571,Bordeaux,Female,25-34,1,1,Bachelor,175,65
+572,Lille,Male,25-34,2,2,Master or doctorate,173,69
+573,Lille,Male,<25,1,1,Bachelor,188,93
+574,Montpellier,Male,25-34,1,1,Master or doctorate,180,77
+575,Lyon,Male,25-34,2,2,Master or doctorate,185,64
+576,Montpellier,Male,25-34,2,2,Bachelor,170,70
+577,Montpellier,Male,25-34,2,2,Master or doctorate,175,70
+578,Lille,Male,25-34,1,1,Master or doctorate,192,81
+579,Lille,Male,25-34,1,1,Master or doctorate,179,88
+580,Montpellier,Female,<25,1,1,Master or doctorate,168,74
+581,Montpellier,Male,35-44,1,1,Bachelor,175,94
+582,Lille,Male,35-44,2,2,Master or doctorate,178,116
+583,Lille,Female,25-34,3,5,High school,170,62
+584,Lille,Male,25-34,2,2,High school,180,140
+585,Bordeaux,Female,35-44,1,1,Bachelor,168,87
+586,Lille,Female,25-34,1,1,Master or doctorate,161,46
+587,Bordeaux,Male,<25,2,5,Bachelor,185,88
+588,Montpellier,Male,<25,2,2,Master or doctorate,165,63
+589,Bordeaux,Male,35-44,3,4,Bachelor,171,74
+590,Lille,Female,35-44,5,4,Master or doctorate,175,69
+591,Lyon,Male,<25,4,3,Master or doctorate,174,69
+592,Lille,Female,35-44,5,4,Bachelor,162,76
+593,Montpellier,Male,35-44,1,1,Master or doctorate,170,52
+594,Bordeaux,Male,<25,1,1,Bachelor,186,93
+595,Lille,Male,25-34,3,4,Master or doctorate,176,69
+596,Montpellier,Male,45-54,4,4,Master or doctorate,180,81
+597,Lille,Male,35-44,1,1,Bachelor,179,80
+598,Lille,Male,25-34,2,2,Master or doctorate,176,70
+599,Montpellier,Male,45-54,3,4,Vocational,170,66
+600,Montpellier,Female,25-34,2,2,High school,160,62
+601,Lille,Male,25-34,4,4,Master or doctorate,174,69
+602,Montpellier,Male,25-34,3,4,Master or doctorate,181,83
+603,Lyon,Male,25-34,1,1,Master or doctorate,171,70
+604,Montpellier,Female,25-34,3,4,Master or doctorate,170,68
+605,Montpellier,Male,25-34,1,1,High school,167,63
+606,Lille,Female,25-34,3,4,Bachelor,165,59
+607,Montpellier,Female,55-64,2,2,Master or doctorate,157,56
+608,Lille,Female,25-34,2,2,Master or doctorate,170,57
+609,Lille,Male,25-34,2,5,Master or doctorate,190,73
+610,Lille,Male,25-34,2,2,Vocational,174,106
+611,Bordeaux,Male,<25,1,1,Bachelor,185,93
+612,Bordeaux,Male,25-34,1,1,Master or doctorate,179,83
+613,Lyon,Female,25-34,2,2,Master or doctorate,168,53
+614,Lyon,Female,25-34,2,2,Master or doctorate,165,58
+615,Lille,Male,<25,2,5,Bachelor,170,64
+616,Montpellier,Female,45-54,2,2,Bachelor,169,59
+617,Lille,Male,25-34,1,1,Master or doctorate,176,62
+618,Montpellier,Female,35-44,1,1,Bachelor,160,62
+619,Lille,Male,25-34,3,4,Master or doctorate,180,60
+620,Bordeaux,Male,35-44,5,4,Bachelor,177,66
+621,Montpellier,Male,35-44,3,4,Master or doctorate,183,82
+622,Lille,Male,25-34,2,2,Master or doctorate,170,64
+623,Lille,Male,25-34,3,5,Bachelor,176,71
+624,Lyon,Female,25-34,2,2,Master or doctorate,170,54
+625,Montpellier,Male,35-44,3,3,Bachelor,187,79
+626,Lille,Male,25-34,1,1,Master or doctorate,185,69
+627,Lille,Male,25-34,2,2,Master or doctorate,169,79
+628,Lille,Male,45-54,1,1,Vocational,173,63
+629,Lille,Male,25-34,1,1,Vocational,171,73
+630,Montpellier,Female,35-44,4,4,Bachelor,172,65
+631,Lille,Female,45-54,5,4,Bachelor,163,45
+632,Lille,Male,25-34,1,1,Bachelor,174,79
+633,Lyon,Female,<25,1,1,Bachelor,157,74
+634,Lille,Female,25-34,2,5,Bachelor,156,45
+635,Bordeaux,Male,35-44,1,1,Master or doctorate,180,76
+636,Bordeaux,Male,25-34,1,1,Bachelor,172,53
+637,Montpellier,Male,25-34,1,1,Master or doctorate,177,80
+638,Lille,Female,25-34,1,1,Master or doctorate,170,54
+639,Lille,Male,55-64,2,2,Master or doctorate,170,70
+640,Lille,Female,25-34,2,2,Bachelor,160,55
+641,Lille,Female,35-44,2,2,High school,166,86
+642,Lille,Male,35-44,1,1,Vocational,172,80
+643,Lille,Female,35-44,3,4,Bachelor,167,97
+644,Lille,Female,<25,3,4,Bachelor,162,64
+645,Bordeaux,Male,25-34,1,1,Master or doctorate,187,71
+646,Lille,Male,25-34,2,2,Master or doctorate,167,58
+647,Bordeaux,Female,35-44,2,2,Bachelor,172,70
+648,Lille,Female,25-34,1,1,Bachelor,160,120
+649,Lille,Male,<25,2,2,Master or doctorate,180,78
+650,Bordeaux,Male,25-34,4,4,Master or doctorate,170,84
+651,Bordeaux,Male,45-54,1,1,Master or doctorate,190,80
+652,Lille,Male,25-34,1,1,Bachelor,180,87
+653,Lyon,Female,25-34,2,4,Vocational,162,56
+654,Lille,Female,25-34,2,2,Master or doctorate,170,68
+655,Bordeaux,Male,25-34,4,2,Bachelor,185,92
+656,Lille,Male,25-34,2,2,High school,165,58
+657,Montpellier,Male,25-34,1,1,Bachelor,169,63
+658,Bordeaux,Female,25-34,1,1,Master or doctorate,188,85
+659,Lille,Male,55-64,2,2,Bachelor,187,80
+660,Lille,Male,45-54,2,2,Bachelor,190,68
+661,Lille,Male,25-34,1,2,Bachelor,184,75
+662,Bordeaux,Male,45-54,4,4,Bachelor,187,90
+663,Lille,Male,35-44,2,5,High school,174,76
+664,Lyon,Male,25-34,3,4,Master or doctorate,175,86
+665,Lille,Male,25-34,2,2,Master or doctorate,170,77
+666,Lille,Female,<25,2,5,Bachelor,162,55
+667,Montpellier,Male,35-44,2,2,Bachelor,178,72
+668,Lille,Female,45-54,3,4,Master or doctorate,165,71
+669,Montpellier,Male,25-34,2,3,Master or doctorate,181,81
+670,Montpellier,Male,25-34,1,1,Master or doctorate,183,74
+671,Montpellier,Male,25-34,2,2,Bachelor,186,128
+672,Lille,Female,25-34,2,2,Bachelor,177,63
+673,Bordeaux,Female,25-34,2,2,Master or doctorate,170,67
+674,Lille,Male,25-34,5,4,Bachelor,180,64
+675,Lyon,Female,25-34,2,2,Master or doctorate,163,53
+676,Lille,Female,25-34,3,4,Bachelor,163,61
+677,Lyon,Female,<25,1,1,Bachelor,163,48
+678,Lyon,Female,25-34,2,2,High school,162,78
+679,Montpellier,Male,25-34,2,2,Master or doctorate,186,95
+680,Lille,Male,35-44,1,1,Vocational,172,72
+681,Montpellier,Male,35-44,4,4,Bachelor,183,83
+682,Lille,Male,45-54,1,1,Master or doctorate,181,77
+683,Lille,Female,25-34,1,1,High school,172,95
+684,Lille,Male,45-54,2,2,High school,178,115
+685,Lille,Female,25-34,2,2,Bachelor,163,53
+686,Bordeaux,Female,25-34,3,4,Master or doctorate,153,70
+687,Bordeaux,Male,25-34,2,2,Master or doctorate,180,92
+688,Lille,Male,25-34,2,2,Master or doctorate,179,78
+689,Lille,Female,35-44,2,2,Bachelor,163,73
+690,Lille,Male,<25,1,1,High school,185,80
+691,Lille,Female,25-34,4,4,Bachelor,160,85
+692,Lille,Male,<25,2,2,Bachelor,173,74
+693,Lille,Male,35-44,4,4,Bachelor,182,94
+694,Lille,Male,<25,2,5,Master or doctorate,175,75
+695,Lyon,Male,35-44,4,4,Master or doctorate,188,73
+696,Montpellier,Male,<25,2,2,Bachelor,179,72
+697,Bordeaux,Female,35-44,2,5,Vocational,166,62
+698,Bordeaux,Female,45-54,1,1,High school,175,94
+699,Bordeaux,Female,25-34,4,2,High school,156,65
+700,Bordeaux,Female,45-54,1,1,Master or doctorate,165,69
+701,Bordeaux,Male,25-34,2,2,Master or doctorate,176,84
+702,Lille,Female,55-64,4,4,Master or doctorate,160,75
+703,Bordeaux,Female,25-34,1,1,Bachelor,157,63
+704,Montpellier,Male,25-34,3,4,High school,175,78
+705,Lyon,Male,25-34,1,1,Primary,155,52
+706,Lille,Female,25-34,2,2,Master or doctorate,168,56
+707,Lille,Male,25-34,1,1,Master or doctorate,182,83
+708,Montpellier,Female,25-34,1,1,Bachelor,156,59
+709,Lyon,Male,25-34,3,4,Bachelor,172,92
+710,Lille,Male,25-34,1,1,Master or doctorate,176,53
+711,Lille,Female,<25,3,3,Master or doctorate,175,88
+712,Lille,Female,45-54,1,1,Bachelor,160,55
+713,Montpellier,Female,25-34,1,1,Master or doctorate,170,55
+714,Lille,Male,25-34,2,2,Bachelor,170,68
+715,Lille,Male,25-34,4,4,Master or doctorate,169,75
+716,Lille,Male,25-34,2,2,Master or doctorate,168,58
+717,Lyon,Male,35-44,4,4,Master or doctorate,174,71
+718,Lille,Female,45-54,1,1,Bachelor,160,48
+719,Montpellier,Male,45-54,2,2,Bachelor,180,84
+720,Lille,Male,25-34,2,5,Master or doctorate,187,90
+721,Lyon,Male,25-34,4,4,Master or doctorate,182,65
+722,Bordeaux,Female,25-34,2,2,Master or doctorate,168,65
+723,Lille,Male,25-34,3,4,Master or doctorate,186,95
+724,Lille,Male,<25,5,5,High school,177,70
+725,Lille,Male,35-44,5,4,Master or doctorate,171,65
+726,Lille,Male,<25,1,1,Bachelor,175,61
+727,Lille,Female,25-34,4,4,Master or doctorate,160,58
+728,Lille,Male,45-54,1,1,High school,185,53
+729,Lille,Female,25-34,3,4,Master or doctorate,165,61
+730,Lille,Female,<25,4,4,Bachelor,169,79
+731,Montpellier,Female,45-54,4,4,Bachelor,159,53
+732,Lille,Male,25-34,2,2,Bachelor,187,90
+733,Montpellier,Male,25-34,2,2,Master or doctorate,192,95
+734,Lille,Male,<25,1,1,Master or doctorate,176,71
+735,Lille,Male,25-34,2,2,Master or doctorate,172,82
+736,Lille,Male,55-64,2,2,Bachelor,176,86
+737,Montpellier,Male,25-34,3,4,Master or doctorate,171,65
+738,Lille,Male,35-44,4,4,Master or doctorate,180,70
+739,Lille,Male,<25,4,5,High school,180,80
+740,Lille,Male,35-44,3,4,Master or doctorate,175,72
+741,Lille,Female,<25,2,3,Master or doctorate,165,80
+742,Lille,Female,25-34,1,1,Bachelor,161,50
+743,Lyon,Male,35-44,2,2,Master or doctorate,170,61
+744,Lille,Female,35-44,2,2,Bachelor,166,85
+745,Lyon,Female,<25,1,1,Master or doctorate,171,72
+746,Lille,Female,25-34,2,2,Master or doctorate,169,53
+747,Montpellier,Female,25-34,1,1,Bachelor,165,60
+748,Lille,Female,25-34,4,4,Bachelor,160,56
+749,Lyon,Female,25-34,3,4,Master or doctorate,160,56
+750,Lille,Female,25-34,1,1,Master or doctorate,168,59
+751,Lille,Female,25-34,1,1,Bachelor,170,64
+752,Bordeaux,Female,25-34,1,1,Bachelor,163,67
+753,Lille,Female,25-34,2,2,Master or doctorate,163,50
+754,Lille,Male,35-44,1,1,Master or doctorate,180,82
+755,Lille,Male,35-44,2,2,Master or doctorate,182,83
+756,Lille,Female,45-54,4,4,Bachelor,163,46
+757,Lille,Male,35-44,3,3,Master or doctorate,187,76
+758,Lille,Male,35-44,2,2,Master or doctorate,170,57
+759,Lyon,Male,25-34,5,4,Master or doctorate,172,72
+760,Lille,Female,25-34,1,1,Master or doctorate,171,72
+761,Montpellier,Male,25-34,2,3,Master or doctorate,189,81
+762,Montpellier,Male,35-44,4,4,Bachelor,176,87
+763,Lille,Male,<25,2,2,Primary,155,60
+764,Lille,Female,45-54,3,4,Bachelor,161,58
+765,Montpellier,Male,25-34,2,2,Master or doctorate,169,61
+766,Lille,Male,55-64,2,2,Master or doctorate,172,75
+767,Lille,Female,35-44,2,2,Bachelor,165,52
+768,Lille,Male,25-34,2,2,Bachelor,177,78
+769,Lyon,Male,<25,1,1,Master or doctorate,172,82
+770,Montpellier,Male,25-34,1,1,Master or doctorate,180,73
+771,Lille,Female,45-54,1,1,High school,163,67
+772,Lille,Female,25-34,4,4,Bachelor,164,62
+773,Lyon,Male,45-54,3,4,Master or doctorate,182,73
+774,Lyon,Male,45-54,4,4,Vocational,184,88
+775,Lille,Male,25-34,2,2,Master or doctorate,181,79
+776,Lyon,Female,25-34,2,3,High school,162,60
+777,Lille,Female,25-34,3,4,Bachelor,160,63
+778,Lille,Female,45-54,2,2,High school,167,58
+779,Lille,Male,65+,4,4,High school,178,92
+780,Bordeaux,Male,55-64,3,4,Master or doctorate,175,71
+781,Lille,Female,35-44,4,4,Master or doctorate,172,92
+782,Lille,Male,25-34,2,2,Bachelor,176,78
+783,Lyon,Female,35-44,4,4,Bachelor,163,55
+784,Lille,Male,35-44,3,4,Master or doctorate,180,77
+785,Lille,Female,<25,2,3,Bachelor,170,51
+786,Lyon,Female,45-54,2,2,High school,168,72
+787,Lille,Male,45-54,4,4,Bachelor,170,90
+788,Montpellier,Female,25-34,2,2,Master or doctorate,170,64
+789,Lille,Female,25-34,4,4,Bachelor,156,55
+790,Lyon,Male,35-44,1,1,Master or doctorate,170,133
+791,Montpellier,Male,25-34,2,2,Master or doctorate,185,83
+792,Lille,Male,25-34,2,2,Bachelor,180,72
+793,Bordeaux,Female,<25,3,4,Bachelor,160,66
+794,Lyon,Male,<25,5,5,Master or doctorate,183,81
+795,Lille,Male,35-44,3,3,Bachelor,183,80
+796,Montpellier,Female,45-54,2,2,Bachelor,167,67
+797,Montpellier,Male,55-64,4,4,Master or doctorate,173,82
+798,Lille,Female,25-34,2,2,Master or doctorate,164,54
+799,Lille,Male,35-44,4,4,Master or doctorate,170,61
+800,Lille,Female,25-34,4,4,Master or doctorate,173,85
+801,Lille,Male,<25,2,2,Bachelor,169,84
+802,Lille,Male,35-44,2,2,Vocational,170,65
+803,Lille,Female,25-34,2,2,Master or doctorate,159,59
+804,Lille,Female,25-34,2,2,Bachelor,160,53
+805,Lille,Female,25-34,2,2,Master or doctorate,175,78
+806,Montpellier,Female,35-44,2,2,Vocational,158,59
+807,Lyon,Male,45-54,4,4,High school,173,101
+808,Lille,Female,45-54,1,1,Master or doctorate,165,60
+809,Lyon,Female,25-34,2,2,Bachelor,172,77
+810,Lille,Male,45-54,4,4,Primary,173,75
+811,Lille,Female,25-34,2,2,Bachelor,163,54
+812,Lille,Female,<25,2,2,Bachelor,163,71
+813,Lyon,Male,25-34,2,2,Master or doctorate,174,82
+814,Montpellier,Male,25-34,2,2,Bachelor,180,81
+815,Lyon,Female,35-44,6,4,Bachelor,162,54
+816,Bordeaux,Male,25-34,2,2,Bachelor,182,72
+817,Lyon,Female,<25,5,4,Bachelor,161,73
+818,Bordeaux,Female,25-34,2,2,Master or doctorate,172,69
+819,Lille,Female,35-44,2,2,Master or doctorate,165,70
+820,Lille,Male,45-54,4,4,High school,186,80
+821,Lille,Female,25-34,3,4,Master or doctorate,160,155
+822,Lyon,Female,25-34,1,1,Master or doctorate,167,60
+823,Lille,Male,35-44,4,4,Bachelor,185,80
+824,Montpellier,Female,<25,1,1,Bachelor,168,66
+825,Lille,Female,45-54,2,2,Vocational,158,60
+826,Lille,Male,25-34,2,2,Master or doctorate,180,86
+827,Lyon,Female,35-44,4,4,Primary,160,55
+828,Lille,Male,<25,2,2,Bachelor,179,86
+829,Lille,Male,<25,2,5,Bachelor,173,76
+830,Lille,Male,25-34,1,1,Bachelor,169,84
+831,Bordeaux,Male,<25,1,1,High school,170,79
+832,Montpellier,Male,25-34,2,2,Bachelor,167,72
+833,Lille,Female,25-34,3,4,High school,168,61
+834,Lyon,Male,25-34,3,4,Master or doctorate,177,73
+835,Bordeaux,Male,55-64,2,2,Bachelor,183,77
+836,Montpellier,Male,55-64,1,1,Bachelor,170,55
+837,Lille,Female,25-34,1,1,Master or doctorate,165,55
+838,Lille,Female,25-34,4,4,High school,169,68
+839,Montpellier,Male,25-34,2,2,Master or doctorate,183,82
+840,Montpellier,Female,25-34,1,1,Master or doctorate,171,71
+841,Lille,Female,35-44,3,4,High school,158,20
+842,Lille,Female,35-44,3,4,Master or doctorate,160,
+843,Lille,Male,25-34,1,1,Master or doctorate,188,71
+844,Lille,Male,35-44,4,4,High school,187,81
+845,Lille,Male,25-34,2,2,Master or doctorate,175,86
+846,Montpellier,Male,35-44,1,1,Bachelor,178,70
+847,Lille,Male,45-54,5,4,Master or doctorate,168,90
+848,Lille,Male,55-64,2,2,High school,172,69
+849,Lyon,Female,<25,1,1,Bachelor,170,76
+850,Montpellier,Female,35-44,1,1,Bachelor,160,82
+851,Lille,Male,45-54,2,2,Master or doctorate,184,83
+852,Lyon,Female,45-54,4,4,High school,168,78
+853,Lille,Male,25-34,1,1,Bachelor,175,79
+854,Lyon,Male,25-34,5,4,Master or doctorate,186,93
+855,Montpellier,Female,35-44,1,1,Master or doctorate,160,65
+856,Bordeaux,Male,25-34,3,4,High school,175,73
+857,Bordeaux,Male,45-54,1,1,High school,190,87
+858,Lille,Female,25-34,3,4,Master or doctorate,168,88
+859,Lyon,Male,45-54,2,2,Master or doctorate,180,73
+860,Lille,Female,45-54,2,2,Master or doctorate,162,55
+861,Lyon,Male,55-64,2,2,Master or doctorate,172,90
+862,Montpellier,Male,25-34,2,2,Master or doctorate,181,83
+863,Lille,Female,25-34,2,2,Master or doctorate,172,69
+864,Lyon,Male,35-44,1,1,Bachelor,181,83
+865,Lille,Female,45-54,3,4,Bachelor,165,64
+866,Lille,Male,<25,2,3,Master or doctorate,173,98
+867,Bordeaux,Female,45-54,3,4,Bachelor,163,64
+868,Lyon,Male,25-34,3,4,Bachelor,182,80
+869,Lyon,Male,25-34,2,2,Master or doctorate,187,95
+870,Bordeaux,Male,65+,2,2,Vocational,181,88
+871,Lille,Male,55-64,4,4,Master or doctorate,174,75
+872,Lille,Male,<25,4,5,Master or doctorate,175,68
+873,Lille,Male,35-44,2,2,Master or doctorate,185,96
+874,Montpellier,Female,25-34,1,1,Bachelor,175,62
+875,Lille,Female,45-54,1,1,Vocational,158,47
+876,Bordeaux,Female,35-44,2,2,High school,151,50
+877,Lille,Male,<25,2,2,Bachelor,184,80
+878,Lille,Male,25-34,2,2,Bachelor,172,85
+879,Bordeaux,Male,<25,1,1,Bachelor,175,60
+880,Bordeaux,Male,45-54,1,1,Master or doctorate,178,70
+881,Lille,Female,45-54,2,2,Bachelor,157,69
+882,Lille,Female,45-54,2,2,Bachelor,168,73
+883,Montpellier,Female,<25,2,2,High school,168,73
+884,Montpellier,Female,25-34,2,2,Master or doctorate,169,65
+885,Lille,Male,<25,2,3,Bachelor,174,65
+886,Lille,Female,35-44,2,2,Bachelor,156,47
+887,Lille,Male,<25,2,2,Bachelor,182,86
+888,Lyon,Female,<25,1,1,Bachelor,162,54
+889,Lille,Female,35-44,1,1,Vocational,169,83
+890,Lille,Female,<25,2,2,Master or doctorate,162,56
+891,Bordeaux,Female,45-54,1,1,Bachelor,167,140
+892,Montpellier,Female,<25,2,3,Bachelor,165,56
+893,Montpellier,Male,45-54,1,1,Master or doctorate,180,73
+894,Lille,Female,35-44,4,4,Master or doctorate,160,57
+895,Lille,Male,<25,2,2,Master or doctorate,175,79
+896,Montpellier,Male,25-34,3,4,Bachelor,189,87
+897,Lille,Male,35-44,5,4,Bachelor,183,72
+898,Bordeaux,Male,<25,2,2,Bachelor,170,64
+899,Lille,Female,25-34,2,2,High school,156,51
+900,Bordeaux,Male,55-64,2,2,Vocational,155,60
+901,Lille,Female,<25,2,2,Bachelor,163,70
+902,Lille,Male,<25,2,5,Master or doctorate,185,78
+903,Lille,Female,25-34,3,4,Master or doctorate,160,58
+904,Bordeaux,Female,25-34,1,1,Bachelor,165,73
+905,Bordeaux,Female,35-44,4,4,Master or doctorate,158,52
+906,Lille,Female,25-34,2,2,High school,155,59
+907,Lille,Male,25-34,3,4,Master or doctorate,176,71
+908,Lille,Female,45-54,4,4,Bachelor,150,72
+909,Lille,Female,<25,2,2,Master or doctorate,157,48
+910,Lyon,Male,<25,4,4,Bachelor,183,84
+911,Montpellier,Male,35-44,4,4,Bachelor,180,83
+912,Lille,Male,55-64,1,1,Bachelor,176,66
+913,Lille,Female,25-34,2,2,Master or doctorate,160,57
+914,Bordeaux,Female,45-54,2,2,Primary,160,55
+915,Lille,Male,25-34,1,1,Bachelor,177,82
+916,Lille,Female,35-44,1,1,High school,160,72
+917,Montpellier,Female,25-34,1,1,Bachelor,167,58
+918,Montpellier,Male,35-44,4,4,Master or doctorate,187,93
+919,Montpellier,Female,<25,2,2,Bachelor,195,93
+920,Montpellier,Male,25-34,5,3,Bachelor,176,70
+921,Lille,Female,35-44,5,4,Bachelor,166,88
+922,Montpellier,Female,25-34,2,2,Bachelor,170,59
+923,Lyon,Male,35-44,2,2,Master or doctorate,170,65
+924,Lille,Male,<25,1,1,Master or doctorate,175,
+925,Lille,Female,45-54,3,4,Master or doctorate,165,59
+926,Lille,Male,<25,3,5,Bachelor,192,90
+927,Montpellier,Male,35-44,2,2,Bachelor,181,71
+928,Lille,Female,55-64,1,1,High school,172,65
+929,Lyon,Male,25-34,2,2,High school,180,76
