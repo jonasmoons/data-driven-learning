@@ -1,4 +1,4 @@
-,address,area,bedrooms,postal_code,posting_date,price,property_type,rooms,sale_date,url,year_built
+id,address,area,bedrooms,postal_code,posting_date,price,property_type,rooms,sale_date,url,year_built
 0,Knollendamstraat 4 III/IV,108,2,1013 TN,4-6-2016,510000,apartment,3,23-6-2016,http://www.funda.nl/koop/verkocht/amsterdam/appartement-49878073-knollendamstraat-4-iii-iv/,1906
 1,Moerdijkstraat 47 1,47,1,1079 XM,22-6-2016,215000,apartment,2,5-7-2016,http://www.funda.nl/koop/verkocht/amsterdam/appartement-49880733-moerdijkstraat-47-1/,1938
 2,Zeeburgerdijk 349,116,2,1095 AD,9-6-2016,325000,apartment,3,8-7-2016,http://www.funda.nl/koop/verkocht/amsterdam/appartement-49874422-zeeburgerdijk-349/,2003
