@@ -5,7 +5,7 @@
 * On Canvas: student manual, assignments, overview of content per week
 
 ## Examples and exercises
-Example code can be found in the Examples folder. During class, exercises will be shown on the slides. The data sets for these exercises can be found in the corresponding example folder. These are exercises you can make during the lesson to test your knowledge. You **don't** need to submit these; however, you may post a link to your Notebook on Slack. I will use this to get a general sense of how things are going. See the folder for the material.
+Example code can be found in the Examples folder. During class, exercises will be shown on the slides. The data sets for these exercises can be found in the corresponding example folder. These are exercises you can make during the lesson to test your knowledge. You **don't** need to submit these.
 
 ## Resources and tips
 
