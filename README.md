@@ -2,7 +2,7 @@
 
 ## What is on Canvas and what is on GitHub?
 * On GitHub: example Notebooks, slides, extra material, exercises (in slides), data sets
-* On Canvas: student manual, assignments, overview of content per week
+* On Canvas: student manual, assignments, link to webinar recordings, overview of content per week
 
 ## Examples and exercises
 Example code can be found in the Examples folder. During class, exercises will be shown on the slides. The data sets for these exercises can be found in the corresponding example folder. These are exercises you can make during the lesson to test your knowledge. You **don't** need to submit these.
