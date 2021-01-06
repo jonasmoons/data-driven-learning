@@ -34,7 +34,7 @@ Using tools from data science and machine learning would not make a lot of sense
 * [Week 2: blog with overview with different types of bar charts and when to use them](https://chartio.com/learn/charts/bar-chart-complete-guide/)
 * [Week 2: blog on count plots in Seaborn](https://towardsdatascience.com/hands-on-python-data-visualization-seaborn-count-plot-90e823599012)
 * [Week 2: blog on scatterplot matrix in Seaborn](https://dzone.com/articles/what-when-amp-how-of-scatterplot-matrix-in-python)
-* [Week 2: blog on correlation in Pandas and Seaborn]https://towardsdatascience.com/correlation-is-simple-with-seaborn-and-pandas-28c28e92701e)
+* [Week 2: blog on correlation in Pandas and Seaborn](https://towardsdatascience.com/correlation-is-simple-with-seaborn-and-pandas-28c28e92701e)
 * [Week 3: blog on linear regression in sklearn](https://stackabuse.com/linear-regression-in-python-with-scikit-learn/)
 * [Week 3: another blog on linear regression, including residual plot](https://www.datacourses.com/evaluation-of-regression-models-in-scikit-learn-846/)
 * [Week 4: blog with introduction to machine learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
