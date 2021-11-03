@@ -1,6 +1,8 @@
 # Fundamentals of Machine Learning (University of Applied Sciences Utrecht)
 
+
 **ATTENTION: starting from the academic year 2021, this page is no longer maintained. For the current slides and code, please see the Microsoft Teams channel.**
+
 
 ## What is on Canvas and what is on GitHub?
 * On GitHub: example Notebooks, slides, extra material, exercises (in slides), data sets
