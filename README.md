@@ -47,10 +47,3 @@ Using tools from data science and machine learning would not make a lot of sense
 * [Week 5: blog on Random Forest (begin here)](https://www.datacamp.com/community/tutorials/random-forests-classifier-python)
 * [Week 5: another blog on Random Forest, including parameter optimization](https://stackabuse.com/random-forest-algorithm-with-python-and-scikit-learn/)
 * [Week 6: blog on text classification using bag-of-words-model and Naive Bayes](http://ethen8181.github.io/machine-learning/text_classification/basics/basics.html)
-
-### Tips
-* Google, [Stack Overflow](https://stackoverflow.com/) and [Cross Validated](https://stats.stackexchange.com/) are your friends. It’s not a shame to Google even really basic concepts.
-* Your code should be properly commented (use `#`). Good commenting means you explain also why you do something, not just what you’re doing.
-* Visualize and explore your data. Get acquainted with your data. Explore cases that deviate from the trend (outliers).
-* Visualize your model predictions and [residuals](http://blog.minitab.com/blog/adventures-in-statistics-2/why-you-need-to-check-your-residual-plots-for-regression-analysis) to look for ways to improve your model. 
-* Properly label your graphs and axes.
